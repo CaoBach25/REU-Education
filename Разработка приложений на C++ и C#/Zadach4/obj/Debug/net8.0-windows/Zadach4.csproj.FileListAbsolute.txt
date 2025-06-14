@@ -1,0 +1,17 @@
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\bin\Debug\net8.0-windows\Zadach4.exe
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\bin\Debug\net8.0-windows\Zadach4.deps.json
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\bin\Debug\net8.0-windows\Zadach4.runtimeconfig.json
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\bin\Debug\net8.0-windows\Zadach4.dll
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\bin\Debug\net8.0-windows\Zadach4.pdb
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.Form1.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.SizeForm.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.csproj.GenerateResource.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.AssemblyInfoInputs.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.AssemblyInfo.cs
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.csproj.CoreCompileInputs.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.dll
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\refint\Zadach4.dll
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.pdb
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\Zadach4.genruntimeconfig.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4\obj\Debug\net8.0-windows\ref\Zadach4.dll

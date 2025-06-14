@@ -1,0 +1,11 @@
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\bin\Debug\Zadanhie4.exe.config
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\bin\Debug\Zadanhie4.exe
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\bin\Debug\Zadanhie4.pdb
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.csproj.AssemblyReference.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.Form1.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.Properties.Resources.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.SizeColorForm.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.csproj.GenerateResource.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.csproj.CoreCompileInputs.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.exe
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadanhie4\obj\Debug\Zadanhie4.pdb

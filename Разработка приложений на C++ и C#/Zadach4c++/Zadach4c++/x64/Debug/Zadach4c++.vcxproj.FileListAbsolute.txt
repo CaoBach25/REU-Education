@@ -1,0 +1,4 @@
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4c++\Zadach4c++\x64\Debug\Zadach4c++.vcxproj.AssemblyReference.cache
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4c++\Zadach4c++\x64\Debug\Zadach4c.MainForm.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4c++\Zadach4c++\x64\Debug\Zadach4c.SizeForm.resources
+D:\Tin\Nam 3\Ki 1\Разработка приложений на C++ и C#\Zadach4c++\Zadach4c++\x64\Debug\Zadach4c++.vcxproj.GenerateResource.cache
