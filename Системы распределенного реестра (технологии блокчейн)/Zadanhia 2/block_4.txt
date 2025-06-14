@@ -1,0 +1,5 @@
+Index: 4
+Timestamp: 1730366111.5109265
+Data: Block 4 data
+Previous Hash: cc1a9b0fc2cb84b6cfae8495d52562669cf3a089b9cbc58b1892111807bd0ccc
+Hash: 1eb576e38954cc29921f88b3ca84f4bd495dd9a77e58bf8327a433c030e6ba60
