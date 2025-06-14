@@ -1,0 +1,84 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SpaApp.ServicesPage"
+             BackgroundColor="#FADADD">
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <Label Text="Выберите пакет услуг"
+                   FontSize="26"
+                   HorizontalOptions="Center"
+                   TextColor="#FF69B4"
+                   FontAttributes="Bold"
+                   Margin="0,10,0,20" />
+
+            <!-- Пакет Эко -->
+            <Frame BackgroundColor="White" CornerRadius="20" Padding="15" Margin="0,10" HasShadow="True">
+                <StackLayout Spacing="10">
+                    <Image Source="eco_package.jpg" Aspect="AspectFill" HeightRequest="150" />
+                    <Label Text="Эко (Рекомендуем)"
+                           FontSize="22"
+                           TextColor="#FF69B4"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center" />
+                    <Label Text="Доступные и экологичные услуги для расслабления и восстановления."
+                           FontSize="14"
+                           TextColor="#666"
+                           HorizontalOptions="Center"
+                           HorizontalTextAlignment="Center" />
+                    <Button Text="Выбрать"
+                            BackgroundColor="#FF69B4"
+                            TextColor="White"
+                            CornerRadius="20"
+                            HeightRequest="50"
+                            Clicked="OnEcoClicked" />
+                </StackLayout>
+            </Frame>
+
+            <!-- Пакет Классик -->
+            <Frame BackgroundColor="White" CornerRadius="20" Padding="15" Margin="0,10" HasShadow="True">
+                <StackLayout Spacing="10">
+                    <Image Source="classic_package.png" Aspect="AspectFill" HeightRequest="150" />
+                    <Label Text="Классик"
+                           FontSize="22"
+                           TextColor="#FF69B4"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center" />
+                    <Label Text="Классический выбор для тех, кто ценит качество и комфорт."
+                           FontSize="14"
+                           TextColor="#666"
+                           HorizontalOptions="Center"
+                           HorizontalTextAlignment="Center" />
+                    <Button Text="Выбрать"
+                            BackgroundColor="#FF69B4"
+                            TextColor="White"
+                            CornerRadius="20"
+                            HeightRequest="50"
+                            Clicked="OnClassicClicked" />
+                </StackLayout>
+            </Frame>
+
+            <!-- Пакет Люкс -->
+            <Frame BackgroundColor="White" CornerRadius="20" Padding="15" Margin="0,10" HasShadow="True">
+                <StackLayout Spacing="10">
+                    <Image Source="luxury_package.png" Aspect="AspectFill" HeightRequest="150" />
+                    <Label Text="Люкс (Лучший выбор)"
+                           FontSize="22"
+                           TextColor="#FF69B4"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center" />
+                    <Label Text="Элитные услуги для максимального расслабления и наслаждения."
+                           FontSize="14"
+                           TextColor="#666"
+                           HorizontalOptions="Center"
+                           HorizontalTextAlignment="Center" />
+                    <Button Text="Выбрать"
+                            BackgroundColor="#FF69B4"
+                            TextColor="White"
+                            CornerRadius="20"
+                            HeightRequest="50"
+                            Clicked="OnLuxuryClicked" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

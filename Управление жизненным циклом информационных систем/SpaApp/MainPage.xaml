@@ -1,0 +1,27 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SpaApp.MainPage">
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="#FF69B4" Offset="0.0" />
+            <GradientStop Color="#FADADD" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <StackLayout Padding="20" VerticalOptions="Center">
+        <!-- Logo (Hiển thị hình tròn) -->
+        <Frame CornerRadius="75" HeightRequest="150" WidthRequest="150" HorizontalOptions="Center" Padding="0" IsClippedToBounds="True" BackgroundColor="White">
+            <Image Source="logo.png" Aspect="AspectFill" />
+        </Frame>
+
+        <!-- Form điền thông tin -->
+        <Entry Placeholder="ФИО" x:Name="FullNameEntry" />
+        <Entry Placeholder="Номер телефона" x:Name="PhoneEntry" Keyboard="Telephone" />
+        <Entry Placeholder="Email" x:Name="EmailEntry" Keyboard="Email" />
+        <Button Text="Зарегистрироваться"
+                BackgroundColor="#FF69B4"
+                TextColor="White"
+                CornerRadius="20"
+                Clicked="OnRegisterClicked" />
+    </StackLayout>
+</ContentPage>

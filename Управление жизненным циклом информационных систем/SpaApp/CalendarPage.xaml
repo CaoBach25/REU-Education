@@ -1,0 +1,16 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SpaApp.CalendarPage"
+             BackgroundColor="#FADADD">
+    <StackLayout Padding="20">
+        <Label Text="Выберите дату" FontSize="24" TextColor="#FF69B4" HorizontalOptions="Center" />
+        <DatePicker x:Name="DatePickerControl" />
+        <Label Text="Выберите время" FontSize="24" TextColor="#FF69B4" HorizontalOptions="Center" Margin="10" />
+        <Picker x:Name="TimePickerControl" ItemsSource="{Binding AvailableTimes}" />
+        <Button Text="Подтвердить"
+                BackgroundColor="#FF69B4"
+                TextColor="White"
+                CornerRadius="20"
+                Clicked="OnConfirmDateTimeClicked" />
+    </StackLayout>
+</ContentPage>

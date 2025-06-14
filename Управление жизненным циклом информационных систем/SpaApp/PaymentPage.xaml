@@ -1,0 +1,61 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SpaApp"
+             x:Class="SpaApp.PaymentPage"
+             BackgroundColor="#FADADD">
+    <StackLayout>
+        <!-- Layout nhập thông tin thanh toán -->
+        <StackLayout x:Name="PaymentLayout" Padding="20">
+            <Label Text="Введите данные карты" 
+                   FontSize="24" 
+                   TextColor="#FF69B4" 
+                   HorizontalOptions="Center" />
+            <Frame BackgroundColor="#FFFFFF" CornerRadius="10" Padding="15" Margin="10">
+                <StackLayout>
+                    <Entry Placeholder="Номер карты" 
+                           x:Name="CardNumberEntry" 
+                           Keyboard="Numeric">
+                        <Entry.Behaviors>
+                            <local:NumericValidationBehavior MaxLength="16" />
+                        </Entry.Behaviors>
+                    </Entry>
+                    <Entry Placeholder="Срок действия (MM/YY)" 
+                           x:Name="ExpiryDateEntry" 
+                           Keyboard="Numeric"
+                           TextChanged="OnExpiryDateTextChanged" />
+                    <Entry Placeholder="CVC" 
+                           x:Name="CVCEntry" 
+                           Keyboard="Numeric" 
+                           IsPassword="True">
+                        <Entry.Behaviors>
+                            <local:NumericValidationBehavior MaxLength="3" />
+                        </Entry.Behaviors>
+                    </Entry>
+                </StackLayout>
+            </Frame>
+            <Button Text="Оплатить" 
+                    BackgroundColor="#FF69B4" 
+                    TextColor="#FFFFFF" 
+                    FontSize="18" 
+                    CornerRadius="20"
+                    Clicked="OnPayClicked" />
+        </StackLayout>
+
+        <!-- Layout thông báo thanh toán thành công -->
+        <StackLayout x:Name="SuccessLayout" Padding="20" IsVisible="False">
+            <Image Source="success_icon.png" HeightRequest="80" HorizontalOptions="Center" />
+            <Label Text="Оплата прошла успешно!" 
+                   FontSize="24" 
+                   TextColor="#FF69B4" 
+                   HorizontalTextAlignment="Center"
+                   Margin="10" />
+            <Button Text="На главную" 
+                    BackgroundColor="#FF69B4" 
+                    TextColor="White" 
+                    CornerRadius="20" 
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    Clicked="OnBackToMainPage" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

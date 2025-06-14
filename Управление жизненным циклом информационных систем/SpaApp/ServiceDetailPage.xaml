@@ -1,0 +1,30 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SpaApp.ServiceDetailPage"
+             BackgroundColor="#FADADD">
+    <StackLayout Padding="20">
+        <Label Text="Выберите услугу"
+               FontSize="24"
+               HorizontalOptions="Center"
+               TextColor="#FF69B4" />
+        <CollectionView ItemsSource="{Binding Services}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BackgroundColor="#FFFFFF" CornerRadius="15" Padding="10" Margin="5">
+                        <StackLayout>
+                            <Image Source="{Binding Image}" HeightRequest="100" />
+                            <Label Text="{Binding Name}" FontSize="18" TextColor="#FF69B4" />
+                            <Label Text="{Binding Price}" FontSize="14" TextColor="#7E7E7E" />
+                            <Button Text="Выбрать"
+                                    BackgroundColor="#FF69B4"
+                                    TextColor="White"
+                                    CornerRadius="10"
+                                    CommandParameter="{Binding .}"
+                                    Clicked="OnServiceSelected" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>
