@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UML.Пользователь">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAABCICAAAAQAAAAAAAAAAAAAEAAAAIAAACA=</HashCode>
+      <FileName>Пользователь.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Группа1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UML.Право">
+    <Position X="6.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAAAAIAAAAAAAAAQAAIAAAAAA=</HashCode>
+      <FileName>Право.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UML.КонтрольДоступа">
+    <Position X="9.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAAAAAAACAAAAAAAACAAAAAAAAIAAACAAAAAAA=</HashCode>
+      <FileName>КонтрольДоступа.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Группа" />
+      <Property Name="Право" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UML.Группа">
+    <Position X="6.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAACQAEAAEAAAAAQAIEAAIAA=</HashCode>
+      <FileName>Группа.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Пользователь" />
+      <Property Name="Право1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

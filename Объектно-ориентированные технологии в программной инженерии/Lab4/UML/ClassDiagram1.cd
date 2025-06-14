@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UML.Permission">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAggAACAAAAEAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Permission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UML.AccessControl">
+    <Position X="3.25" Y="4.5" Width="1.75" />
+    <AssociationLine Name="Permission" Type="UML.Permission" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="5.911" />
+        <Point X="7.688" Y="5.911" />
+        <Point X="7.688" Y="7.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAEAABAAAgAAAAAAAAAAAgAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AccessControl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Permission" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Group">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAAAAAAAAAAAAAAAAAEAgAAAAAAQAIEAAIAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Permission" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="User">
+    <Position X="3.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAACICAAAAQAAAAAAAAAAAAAEAAAAIAAACA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Группа" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,2 @@
+D:\Tin\Nam 3\Ki 2\Объектно-ориентированные технологии в программной инженерии\Lab4\UML\obj\Debug\UML.csproj.AssemblyReference.cache
+D:\Tin\Nam 3\Ki 2\Объектно-ориентированные технологии в программной инженерии\Lab4\UML\obj\Debug\UML.csproj.CoreCompileInputs.cache
