@@ -1,0 +1,1574 @@
+c,District,Number of rooms,House type,Indicator variable,General,Residential,Kitchen,"Price, thousand rubles."
+1,YUMR,1,blocky,0,40,20,10,1596
+2,YUMR,2,blocky,0,60,32,10,1876
+3,YUMR,2,blocky,0,77,40,16,3500
+4,YUMR,3,blocky,0,66,42,9,2074.8
+5,YUMR,3,blocky,0,70,44,10,2156
+6,Construction and installation work,3,brick,1,77,46,10,2828
+7,Construction and installation work,3,blocky,0,70,34,12,2436
+8,GMR,3,brick,1,75,42,15,2489.2
+9,GMR,3,blocky,0,75,42,15,2489.2
+10,Construction and installation work,3,brick,1,72,42,9,2156
+11,YUMR,3,brick,1,64,42,8,1970.36
+12,YUMR,3,blocky,0,67,42,12,2592.8
+13,YUMR,3,blocky,0,72,42,9,2178.4
+14,YUMR,3,blocky,0,74,43,12,2800
+15,YUMR,3,blocky,0,70,50,9,3248
+16,YUMR,3,blocky,0,70,40,8,2576
+17,YUMR,3,blocky,0,70,50,9,3164
+18,YUMR,3,blocky,0,70,44,9,2128
+19,YUMR,3,blocky,0,75,42,15,2540.72
+20,Construction and installation work,3,brick,1,72,43,10,2937.2
+21,Construction and installation work,3,blocky,0,64,42,9,2903.6
+22,Construction and installation work,4,blocky,0,123,70,26,3827.6
+23,Construction and installation work,4,blocky,0,80,52,9,2520
+24,Construction and installation work,4,brick,1,88,54,9,2520
+25,Construction and installation work,4,blocky,0,87,56,10,2380
+26,Construction and installation work,4,blocky,0,78,56,10,2240
+27,Construction and installation work,4,blocky,0,117,63,15,3304
+28,Construction and installation work,4,blocky,0,91,56,10,3424.4
+29,Construction and installation work,4,brick,1,100,73,8,2702
+30,YUMR,4,blocky,0,95,61,15,2800
+31,YUMR,4,blocky,0,100,73,8,2688
+32,YUMR,4,brick,1,100,73,8,2702
+33,YUMR,4,blocky,0,87,56,10,2380
+34,YUMR,4,blocky,0,97,56,12,2800
+35,YUMR,4,blocky,0,100,62,15,3360
+36,YUMR,4,blocky,0,100,66,10,2592.8
+37,YUMR,4,blocky,0,75,53,10,3059.28
+38,YUMR,5,blocky,0,150,100,20,4354
+39,YUMR,5,brick,1,130,90,15,5180
+40,Center,1,blocky,0,37,17,8,1344
+41,Center,2,brick,1,35,23,5,2436
+42,Center,2,blocky,0,36,24,4,1960
+43,Center,2,blocky,0,45,26,8,2100
+44,Center,2,blocky,0,38,33,5,1540
+45,Construction and installation work,2,brick,1,45,21,12,2240
+46,Construction and installation work,2,blocky,0,80,41,15,1764
+47,Construction and installation work,2,blocky,0,91,60,12,3007.2
+48,Construction and installation work,2,blocky,0,50,30,7,1484
+49,Center,2,blocky,0,65,45,16,2380
+50,Center,3,blocky,0,61,36,10,2380
+51,Center,3,blocky,0,54,35,7,1960
+52,Center,3,blocky,0,52,36,7,1540
+53,GMR,3,blocky,0,60,40,9,3640
+54,GMR,3,blocky,0,62,33,8,3110.8
+55,GMR,3,brick,1,53,38,6,1820
+56,GMR,3,blocky,0,63,37,7,2436
+57,GMR,3,blocky,0,51,29,8,1348.2
+58,GMR,3,blocky,0,60,40,12,1680
+59,GMR,3,blocky,0,66,49,6,5600
+60,Center,3,blocky,0,45,29,6,1764
+61,Center,3,blocky,0,50,35,6,1680
+62,Center,3,blocky,0,54,38,6,1506.4
+63,Center,3,brick,1,36,26,10,2016
+64,Center,4,blocky,0,80,55,14,2240
+65,Center,4,brick,1,102,70,8,3780
+66,Center,4,blocky,0,82,52,10,3360
+67,Center,4,blocky,0,162,86,13,5880
+68,Center,4,brick,1,115,85,10,3360
+69,Center,4,brick,1,93,52,11,2324
+70,Center,4,blocky,0,93,52,11,2489.2
+71,Center,4,blocky,0,93,52,11,2486.4
+72,Center,4,blocky,0,82,50,10,2592.8
+73,Center,4,blocky,0,80,50,12,2693.6
+74,Center,4,brick,1,92,56,12,2489.2
+75,Center,5,blocky,0,96,68,9,6222.16
+76,CMR,1,blocky,0,38,18,9,1148
+77,CMR,1,blocky,0,27,14,6,686
+78,CMR,1,blocky,0,30,17,6,1008
+79,Construction and installation work,1,brick,1,34,17,12,1176
+80,Construction and installation work,2,blocky,0,47,33,6,1762.88
+81,Construction and installation work,2,blocky,0,46,30,6,1400
+82,CMR,2,brick,1,44,30,8,1610
+83,CMR,2,blocky,0,66,34,10,2072
+84,CMR,3,blocky,0,60,45,6,2072
+85,CMR,3,blocky,0,56,41,6,1540
+86,CMR,3,brick,1,67,42,9,2489.2
+87,CMR,3,blocky,0,60,41,7,2023
+88,CMR,3,blocky,0,59,44,6,3080
+89,CMR,3,blocky,0,54,36,6,1960
+90,GMR,3,blocky,0,60,40,6,1971.2
+91,GMR,3,blocky,0,68,43,10,2282
+92,GMR,3,blocky,0,54,40,5,1660.4
+93,GMR,4,blocky,0,96,64,9,6160
+94,GMR,4,blocky,0,147,82,18,3351.6
+95,GMR,4,blocky,0,147,82,18,2520
+96,CMR,4,brick,1,85,52,10,2696.4
+97,CMR,4,blocky,0,60,44,6,1960
+98,CMR,4,blocky,0,147,118,15,3220
+99,CMR,4,blocky,0,80,60,10,2744
+100,CMR,4,brick,1,147,100,15,3276
+101,40th Anniversary of Victory,1,blocky,0,35,18,7,1140
+102,40th Anniversary of Victory,1,blocky,0,40,20,10,1450
+103,40th Anniversary of Victory,1,blocky,0,40,20,10,1400
+104,40th Anniversary of Victory,1,blocky,0,44,22,11,980
+105,Aviation town,1,blocky,0,40,20,10,1250
+106,40th Anniversary of Victory,1,brick,1,43,16,10.Feb,1500
+107,Vitamin plant,1,blocky,0,50,20,10,1600
+108,GMR,1,brick,1,49,22,14,1740
+109,GMR,1,brick,1,49,22,14,1700
+110,GMR,1,monolithic,0,50.5,20,12,1385
+111,ZIP,1,monolithic,0,40,20,10,940
+112,ZIP,1,blocky,0,44,20,10.Aug,1000
+113,KKB,1,monolithic,0,32,16,06.May,1020
+114,KKB,1,brick,1,55,20,19,1550
+115,KKB,1,brick,1,52,20,16,1350
+116,KMR,1,blocky,0,30,15,7,1250
+117,KMR,1,blocky,0,40,20,10,1500
+118,KMR,1,blocky,0,34,20,07.May,1300
+119,FMR,1,blocky,0,40,20,10,1350
+120,FMR,1,brick,1,30,17,6,1200
+121,Construction and installation work,1,brick,1,33,19.May,06.May,1250
+122,SHI,1,blocky,0,40,18,10,1480
+123,SHI,1,blocky,0,42,22,10,1300
+124,FMR,1,brick,1,32,17,11,1300
+125,Center,1,brick,1,29,17.May,8,1100
+126,Center,1,brick,1,30,14,08.May,1500
+127,Center,1,brick,1,79.5,28.May,20,2296
+128,CMR,1,brick,1,30,17,06.May,1250
+129,YUMR,1,blocky,0,40,20,10,1280
+130,YUMR,1,monolithic,0,42,19,12.May,1500
+131,40th Anniversary of Victory,2,blocky,0,71.6,33,15,1753
+132,40th Anniversary of Victory,2,blocky,0,49,27,9,1680
+133,GMR,2,panel,0,52,32,9,1750
+134,GMR,2,blocky,0,71.3,33,15.Jun,1707
+135,ZIP,2,blocky,0,69.3,33,16,1780
+136,KKB,2,blocky,0,50,27,9,1700
+137,KMR,2,blocky,0,70,38,15,2200
+138,KMR,2,blocky,0,60,32,11,2000
+139,KSK,2,blocky,0,60,31,10,1650
+140,SHI,2,blocky,0,76,28,26,2200
+141,SHI,2,brick,1,75,40,15,2600
+142,Thermal power plant,2,blocky,0,70,33,15,2100
+143,FMR,2,blocky,0,44,28,6,1650
+144,FMR,2,monolithic,0,70,34,15,2200
+145,FMR,2,brick,1,74,38,14,2300
+146,Center,2,brick,1,50,30,7,1800
+147,Center,2,brick,1,76,40,14,2800
+148,CMR,2,brick,1,50,29,06.May,1680
+149,YUMR,2,panel,0,52,32,9,1770
+150,40th Anniversary of Victory,3,brick,1,82,42,11.May,2460
+151,40th Anniversary of Victory,3,blocky,0,85,43,20,2180
+152,GMR,3,blocky,0,60,40,9,2000
+153,GMR,3,brick,1,52,32,8,1600
+154,ZIP,3,brick,1,63,48,06.May,1850
+155,ZIP,3,brick,1,61,35,8,2150
+156,KMR,3,brick,1,68,40,8,2000
+157,KMR,3,blocky,0,72,42,9,1900
+158,KMR,3,brick,1,63,40,8,1850
+159,FMR,3,blocky,0,93,61,15,2600
+160,FMR,3,blocky,0,85,41.5,20,2040
+161,FMR,3,brick,1,60,41,06.May,1800
+162,Center,3,brick,1,63,43,8,2660
+163,Center,3,panel,0,59,43,06.May,1890
+164,CMR,3,blocky,0,72,43,9,2184
+165,Enka,3,monolithic,0,63,43,10,2604
+166,Enka,3,monolithic,0,72,38,9,2744
+167,YUMR,3,blocky,0,82,49,19,2850
+168,YUMR,3,blocky,0,68,40,15,2650
+169,YUMR,3,blocky,0,82,52,15,2900
+170,YUMR,3,blocky,0,93,46,20,2485
+171,YUMR,3,blocky,0,68,42,9,1750
+172,YUMR,3,brick,1,80,49,9,2200
+173,40th Anniversary of Victory,4,blocky,0,77,52,8,2700
+174,GMR,4,monolithic,0,103,65,15,2800
+175,GMR,4,blocky,0,72,52,9,1960
+176,ZIP,4,monolithic,0,117,82,34.8,3360
+177,KKB,4,blocky,0,85,53,9,2500
+178,KMR,4,blocky,0,80.5,52,9,2280
+179,CMR,4,brick,1,100,52,11,3640
+180,CMR,4,brick,1,111,56,18,3100
+181,YUMR,4,blocky,0,100,71,07.Aug,2660
+182,FMR,4,brick,1,80,54,12,3360
+183,FMR,4,blocky,0,86,54,8,3136
+184,FMR,4,panel,0,60,44,7,1988
+185,FMR,4,blocky,0,62,45,06.May,2240
+186,Construction and installation work,2,blocky,0,72,36,16,1800
+187,Construction and installation work,2,brick,1,44.2,28.Jun,6,1443.61
+188,Construction and installation work,2,blocky,0,69,33,16,2160
+189,Construction and installation work,2,blocky,0,70,35,16,1944
+190,Construction and installation work,2,blocky,0,64,44,10,1890
+191,Construction and installation work,2,blocky,0,70,34,16,1800
+192,Construction and installation work,2,panel,0,45,28,6,1500
+193,Construction and installation work,2,brick,1,59,29,9,1700
+194,Construction and installation work,2,brick,1,45,30,06.May,1400
+195,Construction and installation work,2,blocky,0,69,33,16,2138.68
+196,SHI,2,panel,0,51,31,9,1684.21
+197,ZIP,2,panel,0,70,36,16,3000
+198,ZIP,2,brick,1,50,28,12,1871.34
+199,ZIP,2,brick,1,68,34,16,1800
+200,ZIP,2,brick,1,66,32,15,1386
+201,ZIP,2,brick,1,73,33,16,1680
+202,ZIP,2,brick,1,71.4,32.6,16,2170
+203,ZIP,2,brick,1,76,40,12,1854
+204,ZIP,2,brick,1,61.31,30,10,1440
+205,ZIP,2,brick,1,42,25,07.mar,1700
+206,ZIP,2,brick,1,70,32,20.May,2539.68
+207,ZIP,2,brick,1,58,32,9,1750
+208,ZIP,2,brick,1,73,40,11,2500
+209,ZIP,2,brick,1,63,34,12,1850
+210,ZIP,2,brick,1,54,31,9,1670
+211,ZIP,2,brick,1,65,41,10,1604.01
+212,ZIP,2,brick,1,75,38,14,2300
+213,ZIP,2,blocky,0,70,33,16,1609.8
+214,ZIP,2,blocky,0,70,33,16,1609.8
+215,ZIP,2,blocky,0,70,33,16,1609.8
+216,ZIP,2,blocky,0,68,33,16,41706.898
+217,ZIP,2,blocky,0,69,33,16,1567.7
+218,ZIP,2,blocky,0,68,33,16,1560.1
+219,ZIP,2,blocky,0,62,30,10,1410.15
+220,ZIP,2,blocky,0,62,30,10,1410.15
+221,ZIP,2,blocky,0,54,31,9,1684.21
+222,ZIP,2,blocky,0,70,33,15.Jun,2240
+223,ZIP,2,blocky,0,73.15,33,11.May,1650
+224,ZIP,2,blocky,0,50,30,9,1300
+225,40th Anniversary of Victory,2,brick,1,65,41,10,1577.28
+226,40th Anniversary of Victory,2,blocky,0,54,32,8,1630.74
+227,40th Anniversary of Victory,2,blocky,0,70,33,16,2240
+228,40th Anniversary of Victory,2,blocky,0,70,36,15,2100
+229,40th Anniversary of Victory,2,blocky,0,52.3,32,9,1800
+230,40th Anniversary of Victory,2,blocky,0,60,35,13,1800
+231,40th Anniversary of Victory,2,blocky,0,54,30,9,1336.68
+232,40th Anniversary of Victory,2,brick,1,70,34,12,2650
+233,40th Anniversary of Victory,2,brick,1,51,29,8,1560
+234,40th Anniversary of Victory,2,brick,1,60,40,07.May,1684.21
+235,40th Anniversary of Victory,2,blocky,0,65,34,10,2000
+236,40th Anniversary of Victory,2,blocky,0,61,31,11,1900
+237,40th Anniversary of Victory,2,blocky,0,63,34,12,1850
+238,40th Anniversary of Victory,2,blocky,0,42,25,07.mar,1800
+239,40th Anniversary of Victory,2,panel,0,61,34,11,1755
+240,40th Anniversary of Victory,2,blocky,0,58,32,9,1750
+241,40th Anniversary of Victory,2,blocky,0,42,25,07.mar,1700
+242,40th Anniversary of Victory,2,blocky,0,70,33,16,1900
+243,40th Anniversary of Victory,2,blocky,0,71,35,16.May,1800
+244,40th Anniversary of Victory,2,brick,1,53,27.May,8,1750
+245,40th Anniversary of Victory,2,blocky,0,58,32,9,1750
+246,40th Anniversary of Victory,2,brick,1,70,32,20.May,2539.68
+247,40th Anniversary of Victory,2,brick,1,46,30,06.May,1380
+248,40th Anniversary of Victory,2,brick,1,70,25,20.May,2656
+249,40th Anniversary of Victory,2,brick,1,65,41,10,1700
+250,40th Anniversary of Victory,2,blocky,0,54,31,9,1700
+251,40th Anniversary of Victory,2,brick,1,56,32,8,1810
+252,40th Anniversary of Victory,2,blocky,0,64,34,11,1900
+253,40th Anniversary of Victory,2,blocky,0,70,35,15,2100
+254,40th Anniversary of Victory,2,blocky,0,70,33,16,2170
+255,JMR,2,blocky,0,54,32,9,1900
+256,JMR,2,brick,1,51.3,31,7,1200
+257,JMR,2,panel,0,55,30,8,1416.88
+258,JMR,2,blocky,0,70,33,16,1700
+259,JMR,2,blocky,0,58,32,8,1700
+260,ZIP,1,blocky,0,40,20,10.May,1100
+261,ZIP,1,blocky,0,51,20,11,1650
+262,ZIP,1,blocky,0,54,23,12,1200
+263,ZIP,1,blocky,0,44,22,10,1150
+264,ZIP,1,blocky,0,53,20,15,1450
+265,ZIP,1,blocky,0,40,20,10,1450
+266,ZIP,1,blocky,0,40,20,10,1450
+267,ZIP,1,brick,1,40,18,12,1256.47
+268,ZIP,1,blocky,0,40,20,10,1358
+269,ZIP,1,brick,1,47.3,20,12,1250
+270,ZIP,1,brick,1,53,20,15,1450
+271,ZIP,1,blocky,0,55,20,14,1470.34
+272,ZIP,1,blocky,0,40,17.May,8,1350
+273,ZIP,1,blocky,0,34,18,7,950
+274,ZIP,1,brick,1,35,23,7,1250
+275,ZIP,1,brick,1,32,17,10,1200
+276,ZIP,1,blocky,0,40,20,10,1420
+277,ZIP,1,blocky,0,32,17,8,1200
+278,ZIP,1,brick,1,36,18,8,1400
+279,ZIP,1,blocky,0,40,20,10,1390
+280,ZIP,1,blocky,0,44,21,11,900
+281,40th Anniversary of Victory,1,brick,1,43,23,11,840
+282,40th Anniversary of Victory,1,brick,1,55,20,18,1951.55
+283,40th Anniversary of Victory,1,brick,1,55,20,14,1470.34
+284,40th Anniversary of Victory,1,brick,1,46,20,13,1390
+285,40th Anniversary of Victory,1,blocky,0,40,20,10,1230
+286,40th Anniversary of Victory,1,blocky,0,51.4,20,11,1650
+287,40th Anniversary of Victory,1,blocky,0,40,19,10,1350
+288,40th Anniversary of Victory,1,blocky,0,51,20,10,1650
+289,40th Anniversary of Victory,1,blocky,0,40,19,10,1300
+290,40th Anniversary of Victory,1,brick,1,78,26,24,2133
+291,40th Anniversary of Victory,1,brick,1,46,20,10,1500
+292,40th Anniversary of Victory,1,brick,1,55,20,14,1485
+293,40th Anniversary of Victory,1,brick,1,55,20,18,1450
+294,40th Anniversary of Victory,1,blocky,0,40,20,10,1450
+295,40th Anniversary of Victory,1,blocky,0,40,20,10,1450
+296,40th Anniversary of Victory,1,brick,1,34,8,6,1400
+297,40th Anniversary of Victory,1,brick,1,43,16,10,1370
+298,40th Anniversary of Victory,1,brick,1,40.8,19.Aug,12,1300
+299,40th Anniversary of Victory,1,blocky,0,40,20,10,1250
+300,40th Anniversary of Victory,1,brick,1,31,18,6,1200
+301,40th Anniversary of Victory,1,brick,1,37,19,12,1200
+302,40th Anniversary of Victory,1,brick,1,55,20,18,1450
+303,40th Anniversary of Victory,1,brick,1,48,22,12,1350
+304,40th Anniversary of Victory,1,brick,1,35,19,13,1150
+305,40th Anniversary of Victory,1,brick,1,46,20,10,1500
+306,40th Anniversary of Victory,1,brick,1,40,20,10,1450
+307,40th Anniversary of Victory,1,brick,1,45,18.mar,14.Aug,1400
+308,40th Anniversary of Victory,1,brick,1,40.8,19.Aug,12,1300
+309,40th Anniversary of Victory,1,brick,1,31,18,6,1200
+310,FMR,2,,0,45,32,6,1174.5
+311,FMR,2,,0,46,29,7,1323
+312,FMR,2,,0,46,32,6,1066.5
+313,FMR,2,,0,45,32,6,1188
+314,FMR,2,,0,70,40,12,1755
+315,FMR,2,,0,70,41,12,2500.2
+316,FMR,2,,0,48,29,6,1350
+317,FMR,2,,0,61,32,10,1899.99
+318,FMR,2,,0,55,33,6,1500.12
+319,FMR,2,,0,41,26,6,1215
+320,FMR,2,,0,45,30,6,1279.8
+321,FMR,2,,0,46,25,8,1350
+322,FMR,2,,0,48,32,6,1485
+323,FMR,2,,0,50,33,6,1431
+324,FMR,2,,0,45,32,6,1428.3
+325,FMR,3,,0,104,,,3321
+326,FMR,3,,0,68,38,8,1971
+327,FMR,3,,0,110,68,15,5940
+328,FMR,3,,0,60,40,6,1674
+329,FMR,3,,0,115,68,14,2835
+330,FMR,3,,0,63,46,7,1755
+331,FMR,3,,0,46,34,6,1188
+332,FMR,3,,0,60,42,6,1593
+333,FMR,3,,0,60,40,7,1485
+334,FMR,3,,0,60,40,6,1674
+335,FMR,3,,0,60,40,8,1755
+336,FMR,3,,0,60,40,8,1755
+337,FMR,3,,0,112,68,14,2835
+338,FMR,3,,0,98,66,12,4050
+339,FMR,3,,0,60,42,7,1798.2
+340,FMR,3,,0,60,42,8,1755
+341,FMR,3,,0,63,45,7,1863
+342,FMR,3,,0,113,68,12,3051
+343,FMR,3,,0,50,36,6,1599.75
+344,FMR,4,,0,156,100,42,5400
+345,FMR,4,,0,62,45,6,1674
+346,FMR,4,,0,220,,,5265
+347,FMR,4,,0,100,64,12,2970
+348,FMR,4,,0,76,55,14,1755
+349,FMR,4,,0,60,43,6,1485
+350,FMR,1,,0,45,20,13,1498.5
+351,FMR,1,,0,31,17,7,999
+352,FMR,1,,0,35,,,1080
+353,FMR,1,,0,45,,,1323
+354,FMR,1,,0,40,20,10,1134
+355,FMR,1,,0,32,18,6,874.8
+356,FMR,1,,0,56,28,13,1849.5
+357,FMR,1,,0,40,20,10,1350
+358,FMR,1,,0,34,14,14,1026
+359,FMR,1,,0,40,20,10,1350
+360,FMR,1,,0,40,20,10,1206.9
+361,FMR,1,,0,31,17,6,945
+362,FMR,1,,0,52,20,14,1944
+363,FMR,1,,0,32,17,6,1250.1
+364,FMR,1,,0,30,15,8,1161
+365,FMR,1,,0,32,17,6,945
+366,FMR,1,,0,45,20,13,1498.5
+367,FMR,1,,0,51,22,12,1369.98
+368,FMR,1,,0,40,20,10,1350
+369,FMR,2,,0,70,41,12,2500.2
+370,FMR,2,,0,73,35,16,2187
+371,FMR,3,,0,56,38,6,1485
+372,FMR,3,,0,56,42,6,1549.8
+373,FMR,3,,0,57,36,6,2025
+374,FMR,3,,0,57,41,,1749.6
+375,FMR,3,,0,56,43,6,1485
+376,FMR,3,,0,60,46,6,2160
+377,FMR,3,,0,57,38,7,1857.6
+378,FMR,3,,0,56,42,6,1620
+379,FMR,3,,0,60,41,8,2700
+380,FMR,3,,0,60,40,7,1836
+381,FMR,3,,0,60,40,15,2160
+382,FMR,3,,0,60,45,6,2160
+383,FMR,4,,0,84,54,8,2299.86
+384,FMR,4,,0,97,53,12,1917
+385,FMR,4,,0,58,40,6,2000.7
+386,FMR,4,,0,141,84,16,4725
+387,FMR,4,,0,100,52,12,2700
+388,FMR,4,,0,59,42,15,1852.2
+389,FMR,4,,0,82,33,44,2899.989
+390,FMR,2,,0,42,28,6,1350
+391,FMR,2,,0,40,26,6,972
+392,FMR,2,,0,70,34,14,2160
+393,FMR,2,,0,44,31,7,1350
+394,FMR,2,,0,70,34,14,2187
+395,FMR,2,,0,70,40,12,2239.92
+396,FMR,2,,0,41,24,6,1399.95
+397,FMR,2,,0,68,34,16,2011.5
+398,FMR,2,,0,70,36,16,2100.6
+399,FMR,2,,0,43,28,6,1242
+400,FMR,2,,0,48,32,7,1323
+401,FMR,2,,0,46,32,6,1080
+402,FMR,2,,0,54,31,8,1652.4
+403,FMR,2,,0,67,33,16,2097.9
+404,FMR,2,,0,45,30,6,1350
+405,FMR,2,,0,60,39,12,2457
+406,FMR,2,,0,45,33,6,1350
+407,FMR,2,,0,70,35,16,2000.7
+408,FMR,2,,0,44,30,6,1350
+409,FMR,3,,0,79,44,9,2073.6
+410,FMR,3,,0,60,40,7,1890
+411,FMR,3,,0,63,46,6,1800.9
+412,FMR,3,,0,110,72,15,3105
+413,FMR,3,,0,60,40,8,1755
+414,FMR,3,,0,104,65,12,2592
+415,FMR,3,,0,100,65,15,3510
+416,FMR,3,,0,67,46,7,1944
+417,FMR,3,,0,104,69,12,2808
+418,FMR,3,,0,100,67,13,4050
+419,FMR,3,,0,78,54,13,2835
+420,FMR,3,,0,63,48,6,1890
+421,FMR,3,,0,68,41,8,1890
+422,FMR,3,,0,60,42,6,1579.5
+423,FMR,3,,0,62,45,6,1809
+424,FMR,3,,0,112,90,18,3510
+425,FMR,3,,0,112,63,14,3799.98
+426,FMR,3,,0,64,44,9,2025
+427,FMR,3,,0,110,67,14,4180.68
+428,FMR,4,,0,84,54,8,2999.7
+429,FMR,4,,0,78,45,8,3780
+430,Suburb,1,,0,36,18,7,729
+431,Suburb,1,,0,40,20,10,594
+432,Suburb,1,,0,32,17,6,950.4
+433,Suburb,1,,0,32,18,6,837
+434,Suburb,1,,0,30,17,6,799.2
+435,Suburb,1,,0,40,20,10,850.5
+436,Suburb,1,,0,28,15,8,850.5
+437,Suburb,1,,0,52,24,11,899.91
+438,Suburb,2,,0,51,31,7,1200.15
+439,Suburb,2,,0,62,30,12,1252.8
+440,Suburb,2,,0,34,26,15,810
+441,Suburb,2,,0,45,28,8,1198.8
+442,Suburb,2,,0,48,30,6,1215
+443,Suburb,2,,0,41,30,5,418.5
+444,Suburb,2,,0,60,34,11,1447.2
+445,Suburb,2,,0,61,34,10,1447.2
+446,Suburb,2,,0,65,30,14,1255.5
+447,Suburb,2,,0,58,39,8,1309.5
+448,Suburb,2,,0,36,26,6,270
+449,Suburb,2,,0,42,27,6,945
+450,Suburb,2,,0,46,28,6,1300.05
+451,Suburb,2,,0,46,31,6,864
+452,Suburb,2,,0,56,39,9,1250.1
+453,Suburb,2,,0,45,30,5,1198.8
+454,Suburb,2,,0,30,27,3,580.5
+455,Suburb,2,,0,38,21,8,928.8
+456,Suburb,3,,0,68,45,7,1399.95
+457,Suburb,3,,0,61,40,7,1499.85
+458,Suburb,3,,0,63,46,8,1499.85
+459,Suburb,3,,0,64,40,8,1500.12
+460,Suburb,3,,0,64,40,8,1600.02
+461,Suburb,3,,0,62,43,9,1205.28
+462,Suburb,3,,0,64,38,9,850.5
+463,Suburb,3,,0,62,44,6,1080
+464,Suburb,3,,0,150,120,6,499.5
+465,Suburb,4,,0,80,51,8,1300.05
+466,Suburb,4,,0,81,48,,1601.1
+467,Suburb,4,,0,81,52,11,1699.92
+468,Suburb,4,,0,81,54,9,1169.1
+469,Center,3,brick,1,11,11,6,1351
+470,Center,3,brick,1,21,13,5,850.5
+471,Center,3,blocky,0,21,13,6,877.5
+472,KMR,1,frame,0,23,12,5,1161
+473,Bridges,1,brick,1,25,18,6,1300.05
+474,Center,3,brick,1,25,13,6,1201.5
+475,Ros-kaya,1,brick,1,26,16,10,702
+476,Center,3,brick,1,26,16,6,850.5
+477,Center,3,blocky,0,27,13,6,1674
+478,CMR,3,blocky,0,27,21,6,945
+479,CMR,3,brick,1,27,14,6,661.5
+480,CMR,3,brick,1,27,16.Apr,5,569.7
+481,CMR,3,brick,1,27.Jul,17.Aug,04.mar,1161
+482,Bridges,1,blocky,0,28,14,8,702
+483,FMR,2,brick,1,28,18,6,1449.9
+484,CMR,3,frame,0,28,16,6,657.99
+485,Center,3,blocky,0,28.mar,18.Jul,4,796.5
+486,Center,3,frame,0,28.mar,25.Jul,02.Jun,1242
+487,Center,3,blocky,0,28.Aug,14.mar,09.Feb,1107
+488,Center,3,frame,0,28.Aug,19.Jul,05.Jul,1053
+489,KMR,1,blocky,0,29,15,06.May,1444.5
+490,Center,3,brick,1,29,16,6,1112.4
+491,Center,3,frame,0,29,17,8,999
+492,Center,3,blocky,0,29,16,6,1101.6
+493,Bridges,1,brick,1,30,16,6,1150.2
+494,PMR,1,frame,0,30,17,6,1201.5
+495,FMR,2,frame,0,30,17,06.May,1215
+496,FMR,2,frame,0,30,16.Feb,06.Apr,1350
+497,Center,3,brick,1,30,18,6,1301.4
+498,Center,3,brick,1,30,21,0,1080
+499,Center,3,brick,1,30,19,6,1093.5
+500,Center,3,brick,1,30,18,6,1593
+501,Center,3,brick,1,30,17,6,1188
+502,Center,3,brick,1,30,18,6,1301.4
+503,Center,3,blocky,0,30,27,7,1198.8
+504,Center,3,frame,0,30,26,4,1174.5
+505,CMR,3,frame,0,30,18,6,1242
+506,CMR,3,brick,1,30,18,8,1200.15
+507,F.Tab,2,blocky,0,30.May,15,08.Jun,1350
+508,Center,3,blocky,0,30.May,16.Apr,06.Apr,1120.5
+509,Center,3,blocky,0,30.Aug,17.mar,6,1755
+510,ZIP,1,frame,0,31,24,7,945
+511,Bridges,1,brick,1,31,17,6,1300.05
+512,PMR,1,blocky,0,31,17,6,1447.2
+513,Construction and installation work,1,brick,1,31,15,8,1309.5
+514,FMR,2,frame,0,31,17,7,999
+515,FMR,2,frame,0,31,17,7,1201.5
+516,FMR,2,frame,0,31,17,6,1250.1
+517,FMR,2,frame,0,31,19,6,1300.05
+518,FMR,2,frame,0,31,19,6,1300.05
+519,FMR,2,brick,1,31,17,6,1250.1
+520,FMR,2,frame,0,31,17,6,1350
+521,FMR,2,frame,0,31,17,6,1350
+522,Center,2,brick,1,31,17,7,1201.5
+523,Center,3,brick,1,31,17,6,1107
+524,Center,3,blocky,0,31,17,06.May,1350
+525,Center,3,frame,0,31,23.mar,04.May,1026
+526,CMR,3,brick,1,31,17,6,1215
+527,CMR,3,frame,0,31,17,7,1250.1
+528,CMR,3,frame,0,31,17,7,1250.1
+529,CMR,3,frame,0,31,17,6,1250.1
+530,CMR,3,frame,0,31,17,6,1217.7
+531,CMR,3,brick,1,31,17,7,1250.1
+532,CMR,3,brick,1,31,17,6,1150.2
+533,CMR,3,brick,1,31,17.May,06.Jul,1236.6
+534,CMR,3,brick,1,31,18.May,06.May,1255.5
+535,CMR,3,brick,1,31,16,7,1366.2
+536,Center,3,blocky,0,31.4,16.Jun,6,1458
+537,KMR,1,frame,0,31.6,17.Jul,7,1439.1
+538,ZIP,1,brick,1,32,18,9,1250.1
+539,Bridges,1,brick,1,32,17,6,1209.6
+540,Bridges,1,brick,1,32,18,6,1188
+541,PMR,1,frame,0,32,18,7,1401.3
+542,PMR,1,frame,0,32,18,7,1188
+543,Construction and installation work,1,frame,0,32,18,7,1039.5
+544,FMR,2,frame,0,32,18,6,874.8
+545,FMR,2,frame,0,32,17,6,1198.8
+546,Center,3,brick,1,32,16,10,1100.25
+547,Center,3,blocky,0,32,20,6,1300.05
+548,CMR,3,brick,1,32,18,6,1350
+549,CMR,3,frame,0,32,16,9,837
+550,CMR,3,frame,0,32,18,6,1300.05
+551,CMR,3,frame,0,32,17,6,1300.05
+552,CMR,3,frame,0,32,17,6,1198.8
+553,CMR,3,frame,0,32,18,6,1301.4
+554,CMR,3,frame,0,32,18,6,1301.4
+555,CMR,3,frame,0,32,17,6,1300.05
+556,CMR,3,frame,0,32,17,6,1250.1
+557,CMR,3,brick,1,32,18,6,1539
+558,CMR,3,brick,1,32,18,7,1220.4
+559,CMR,3,brick,1,32,18,6,1198.8
+560,CMR,3,brick,1,32,16,9,864
+561,CMR,3,brick,1,32,17.Feb,06.May,1296
+562,Center,3,blocky,0,32.5,17.Apr,06.Jul,1242
+563,CMR,3,brick,1,32.5,16.May,08.Aug,945
+564,Center,3,frame,0,32.7,17.Aug,10.mar,1485
+565,Construction and installation work,1,brick,1,33,18,6,1228.5
+566,Construction and installation work,2,brick,1,33,19,7,1260.9
+567,Construction and installation work,2,brick,1,33,18,11,1449.9
+568,Construction and installation work,2,brick,1,33,18,11,1198.8
+569,FMR,2,frame,0,33,17,6,1296
+570,Center,3,frame,0,33,19,6,1800.9
+571,Center,3,blocky,0,33,17,6,1399.95
+572,Center,3,blocky,0,33,18,7,1296
+573,Center,3,blocky,0,33,24,6,1755
+574,Center,3,frame,0,33,23,05.Aug,1458
+575,CMR,3,brick,1,33,16,7,783
+576,CMR,3,frame,0,33,17,11,900.18
+577,CMR,3,frame,0,33,18,8,1198.8
+578,CMR,3,brick,1,33,19.May,06.May,1323
+579,YUMR,4,frame,0,33,18,9,1498.5
+580,YUMR,4,blocky,0,33,18,11,1449.9
+581,CMR,3,brick,1,33.6,16,17.Jun,810
+582,KMR,1,frame,0,34,19.May,7,1188
+583,Bridges,1,brick,1,34,17,6,1150.2
+584,Bridges,1,brick,1,34,17,6,1134
+585,Bridges,1,brick,1,34,17,12,1099.98
+586,PMR,1,frame,0,34,17,6,918
+587,Ros-kaya,1,brick,1,34,17,7,1099.98
+588,Construction and installation work,1,brick,1,34,19,7,1250.1
+589,Construction and installation work,2,brick,1,34,19,6,1135.08
+590,Center,2,brick,1,34,23,6,1498.5
+591,Center,2,brick,1,34,18,8,1350
+592,Center,3,frame,0,34,18,7,1026
+593,Center,3,blocky,0,34,20,8,1350
+594,CMR,3,brick,1,34,16,10,950.4
+595,CMR,3,frame,0,34,19,17,1485
+596,CMR,3,frame,0,34,18,11,842.4
+597,CMR,3,frame,0,34,19,10,1161
+598,CMR,3,brick,1,34,17,8,1201.5
+599,CMR,3,brick,1,34,17,10,1350
+600,YUMR,4,blocky,0,34,19,6,1134
+601,YUMR,4,blocky,0,34,18,8,1350
+602,YUMR,4,blocky,0,34,19,8,1512
+603,YUMR,4,blocky,0,34,19,15,1301.4
+604,YUMR,5,brick,1,34,18,9,1350
+605,Center,3,frame,0,34.3,25.Jul,08.May,1134
+606,KMR,1,blocky,0,35,27,5,1485
+607,PMR,1,frame,0,35,18,7,1512
+608,Construction and installation work,2,brick,1,35,18,9,1242
+609,F.Tab,2,blocky,0,35,17,7,1215
+610,Center,2,brick,1,35,23,5,2349
+611,Center,2,brick,1,35,27,7,1323
+612,Center,3,frame,0,35,22,8,1485
+613,Center,3,frame,0,35,18,6,1250.1
+614,Center,3,frame,0,35,18,6,1250.1
+615,Center,3,blocky,0,35,18,7,1250.1
+616,Center,3,blocky,0,35,18,9,1404
+617,KMR,1,frame,0,36,18.Jul,10.Aug,1250.1
+618,Bridges,1,brick,1,36,18,10,1179.9
+619,Center,2,brick,1,36,24,4,1890
+620,Center,3,blocky,0,36,18,8,1201.5
+621,Center,3,blocky,0,36,19,08.May,2430
+622,CMR,3,frame,0,36,15,10,865.08
+623,CMR,3,brick,1,36,18,10,810
+624,CMR,3,blocky,0,36,27,8,1350
+625,School,3,blocky,0,36,16,9,1250.1
+626,Center,3,blocky,0,36.2,19.mar,07.Jun,1512
+627,Construction and installation work,2,blocky,0,36.6,24.Jan,07.jan,1039.5
+628,Center,3,frame,0,36.6,23,8,810
+629,Center,3,frame,0,36.7,22.Apr,6,1242
+630,Ros-kaya,1,brick,1,37,24,5,599.4
+631,FMR,2,frame,0,37,19,8,1301.4
+632,Center,3,blocky,0,37,18,8,1250.1
+633,Center,3,blocky,0,37,19,10,1134
+634,YUMR,4,blocky,0,37,19,8,1439.1
+635,YUMR,5,frame,0,37,18,10,1620
+636,Construction and installation work,2,brick,1,38,18,10,1379.7
+637,FMR,2,brick,1,38,18,11,1215
+638,Center,2,brick,1,38,33,5,1485
+639,Center,2,brick,1,38,18,9,1350
+640,YUMR,5,brick,1,38,18,11,1300.05
+641,YUMR,5,brick,1,38,18,11,1300.05
+642,Construction and installation work,1,frame,0,39,25,6,1649.7
+643,FMR,2,frame,0,39,27,10,1500.12
+644,FMR,2,frame,0,39,27,10,1500.12
+645,FMR,2,frame,0,39,16,12.May,2295
+646,Center,2,brick,1,39,27,6,1431
+647,Center,3,frame,0,39,24,11,1134
+648,CMR,3,frame,0,39,18,11,1174.5
+649,School,3,blocky,0,39,20,8,1309.5
+650,ZIP,1,brick,1,40,20,10,1390.5
+651,PMR,1,frame,0,40,23,10,1099.98
+652,Construction and installation work,1,frame,0,40,20,10,1449.9
+653,Construction and installation work,1,blocky,0,40,20,10,1498.5
+654,Construction and installation work,1,brick,1,40,22,10,1600.02
+655,Construction and installation work,2,brick,1,40,20,10,1449.9
+656,Construction and installation work,2,brick,1,40,20,10,1498.5
+657,Construction and installation work,2,brick,1,40,20,10,1498.5
+658,Construction and installation work,2,brick,1,40,20,10,1404
+659,Construction and installation work,2,brick,1,40,20,10,1501.2
+660,F.Tab,2,blocky,0,40,20,8,1296
+661,FMR,2,brick,1,40,25,6,1501.2
+662,FMR,2,blocky,0,40,18,11,1501.2
+663,FMR,2,blocky,0,40,20,10,1512
+664,FMR,2,blocky,0,40,20,10,1215
+665,FMR,2,brick,1,40,20,10,1134
+666,FMR,2,brick,1,40,20,10,1401.3
+667,FMR,2,brick,1,40,20,10,1600.02
+668,FMR,2,brick,1,40,20,10,1350
+669,FMR,2,brick,1,40,20,10,1399.95
+670,FMR,2,brick,1,40,20,10,1149.93
+671,FMR,2,brick,1,40,20,10,1359.99
+672,FMR,2,brick,1,40,20,10,1399.95
+673,FMR,2,brick,1,40,20,10,1250.1
+674,FMR,2,brick,1,40,20,10,1600.02
+675,FMR,2,brick,1,40,20,10,1620
+676,FMR,2,brick,1,40,20,10,1600.02
+677,FMR,2,brick,1,40,20,10,1600.02
+678,FMR,2,frame,0,40,20,10.May,1620
+679,Center,3,frame,0,40,26,4,1755
+680,Center,3,frame,0,40,26,4,1755
+681,Center,3,blocky,0,40,25,12,1301.4
+682,Center,3,blocky,0,40,22,9,1620
+683,Center,3,frame,0,40,20,10,1485
+684,Center,3,frame,0,40,17,7,1201.5
+685,Center,3,frame,0,40,20,10,3240
+686,Center,3,frame,0,40,18,8,1201.5
+687,Center,3,blocky,0,40,20,10,1323
+688,Center,3,frame,0,40,23,12,1269
+689,Center,3,frame,0,40,28,8,1350
+690,CMR,3,frame,0,40,20,10,1350
+691,CMR,3,frame,0,40,20,10,1652.4
+692,CMR,3,frame,0,40,20,10,1001.7
+693,CMR,3,brick,1,40,19,9,1498.5
+694,CMR,3,brick,1,40,20,10,1198.8
+695,CMR,3,brick,1,40,20,10,1404
+696,CMR,3,brick,1,40,20,10,2295
+697,School,3,blocky,0,40,20,10,1350
+698,School,3,brick,1,40,19,10,1350
+699,School,3,brick,1,40,19,10,1350
+700,YUMR,4,blocky,0,40,20,10,1350
+701,YUMR,4,blocky,0,40,20,10,1350
+702,YUMR,4,blocky,0,40,20,10,1499.985
+703,YUMR,4,blocky,0,40,20,10,1552.5
+704,YUMR,4,blocky,0,40,20,10,1549.8
+705,YUMR,5,brick,1,40,20,10,1701
+706,YUMR,5,brick,1,40,20,10,1401.3
+707,YUMR,5,brick,1,40,20,10,1649.7
+708,YUMR,5,brick,1,40,20,10,1539
+709,YUMR,5,frame,0,40,20,10,1701
+710,KMR,1,blocky,0,40.3,21.mar,11.Jun,1269
+711,CMR,3,brick,1,40.3,30.Jul,09.Jun,999
+712,KMR,1,blocky,0,41,20,11,1674
+713,Center,3,blocky,0,41,26,9,1254.15
+714,Center,3,blocky,0,41,29,6,1300.05
+715,Center,3,blocky,0,41,27,6,1890
+716,Center,3,frame,0,41,22,6,945
+717,CMR,3,brick,1,41,21,9,1080
+718,YUMR,4,blocky,0,41,20,10,1350
+719,PMR,1,frame,0,41.3,22,10,1296
+720,CMR,3,blocky,0,41.4,26.Apr,6,1728
+721,Center,3,blocky,0,41.6,18.mar,12.Apr,1863
+722,CMR,3,blocky,0,41.7,28,6,1350
+723,ZIP,1,brick,1,42,26,6,1377
+724,Bridges,1,brick,1,42,18,11,1601.1
+725,Construction and installation work,1,frame,0,42,30,6,1134
+726,FMR,2,blocky,0,42,28,6,1549.8
+727,FMR,2,blocky,0,42,28,6,1350
+728,FMR,2,brick,1,42,25,6,1428.3
+729,Center,3,frame,0,42,27,6,1571.4
+730,Center,3,frame,0,42,27,6,1501.2
+731,Center,3,frame,0,42,17,11,1215
+732,Center,3,frame,0,42,37,4,1134
+733,CMR,3,blocky,0,42,28,6,1620
+734,School,3,blocky,0,42,20,10,1401.3
+735,YUMR,4,blocky,0,42,20,10,1501.2
+736,YUMR,4,brick,1,42,18,13,1560.6
+737,Center,3,frame,0,42.9,27,05.Aug,1660.5
+738,ZIP,1,brick,1,43,27,6,1331.1
+739,ZIP,1,brick,1,43,27,7,1450.008
+740,Construction and installation work,1,frame,0,43,27,6,1501.2
+741,FMR,2,brick,1,43,27,6,1809
+742,FMR,2,brick,1,43,20,13,1701
+743,FMR,2,frame,0,43,21.Jun,06.Jun,1890
+744,Center,3,blocky,0,43,28,6,1449.9
+745,Center,3,blocky,0,43,27,6,1053
+746,Center,3,blocky,0,43,18,14,1117.8
+747,Center,3,blocky,0,43,23,08.Jun,2362.5
+748,Center,3,frame,0,43,28,9,1620
+749,CMR,3,blocky,0,43,28,6,1552.5
+750,CMR,3,brick,1,43,29,7,1499.985
+751,CMR,3,brick,1,43,29,6,1485
+752,Center,3,blocky,0,43.5,19,15,2970
+753,Center,3,frame,0,43.5,28,06.May,1471.5
+754,CMR,3,blocky,0,43.8,27.Aug,06.May,1539
+755,ZIP,1,brick,1,44,21,11,796.5
+756,ZIP,1,brick,1,44,21,11,850.5
+757,Bridges,1,brick,1,44,28,7,1549.8
+758,Bridges,1,brick,1,44,28,7,1512
+759,Construction and installation work,1,frame,0,44,30,7,1350
+760,Construction and installation work,1,frame,0,44,28,6,1431
+761,FMR,2,frame,0,44,31,7,1350
+762,FMR,2,brick,1,44,30,6,1600.02
+763,FMR,2,brick,1,44,32,6,1512
+764,FMR,2,brick,1,44,30,6,1601.1
+765,FMR,2,brick,1,44,20,11,1300.05
+766,Center,3,blocky,0,44,28,8,1498.5
+767,Center,3,blocky,0,44,25,8,1890
+768,Center,3,blocky,0,44,30,5,1570.05
+769,Center,3,blocky,0,44,21,11,1250.1
+770,Center,3,frame,0,44,27.May,6,1485
+771,CMR,3,blocky,0,44,31,6,1485
+772,CMR,3,blocky,0,44,32,6,1449.9
+773,CMR,3,blocky,0,44,31,6,1899.99
+774,CMR,3,blocky,0,44,29,6,1499.985
+775,CMR,3,brick,1,44,28,6,1499.985
+776,YUMR,4,blocky,0,44,23,11,1061.1
+777,Center,3,frame,0,44.3,28.Aug,6,1485
+778,Ros-kaya,1,brick,1,45,18,15,1401.3
+779,Ros-kaya,1,brick,1,45,24,11,839.7
+780,Ros-kaya,1,frame,0,45,28,06.May,1431
+781,Construction and installation work,1,frame,0,45,28,6,1499.985
+782,FMR,2,frame,0,45,28,6,1730.7
+783,FMR,2,frame,0,45,32,6,1188
+784,FMR,2,brick,1,45,30,7,1601.1
+785,FMR,2,brick,1,45,32,6,1600.02
+786,FMR,2,brick,1,45,30,6,1749.6
+787,FMR,2,brick,1,45,28,10,1674
+788,FMR,2,blocky,0,45,20,13,1498.5
+789,FMR,2,blocky,0,45,19,13,1458
+790,FMR,2,brick,1,45,20,13,1458
+791,FMR,2,brick,1,45,20,12,1501.2
+792,FMR,2,brick,1,45,20,13,1501.2
+793,FMR,2,frame,0,45,28,10,1755
+794,Center,2,brick,1,45,26,8,2025
+795,Center,2,brick,1,45,29,6,1701
+796,Center,3,frame,0,45,29,6,1890
+797,Center,3,frame,0,45,39,6,1890
+798,Center,3,blocky,0,45,31,6,1599.75
+799,Center,3,frame,0,45,22,8,1512
+800,CMR,3,blocky,0,45,30,6,1600.02
+801,CMR,3,blocky,0,45,31,6,1900.8
+802,CMR,3,brick,1,45,33,6,1449.9
+803,CMR,3,blocky,0,45,26,05.Aug,1458
+804,Center,3,frame,0,45.1,27.Apr,06.jan,1404
+805,FMR,2,frame,0,45.5,19.Jun,13,1512
+806,Center,3,frame,0,45.5,37.4,08.Jan,1174.5
+807,CMR,3,blocky,0,45.6,29.Jun,06.mar,1498.5
+808,CMR,3,blocky,0,45.6,28.Feb,06.jan,1593
+809,Construction and installation work,1,frame,0,46,29,6,1499.985
+810,FMR,2,frame,0,46,29,7,1701
+811,FMR,2,frame,0,46,31,6,1649.7
+812,FMR,2,brick,1,46,29,7,1701
+813,FMR,2,frame,0,46,31.mar,7,1755
+814,Center,3,blocky,0,46,30,6,1701
+815,Center,3,blocky,0,46,27,6,1404
+816,Center,3,frame,0,46,18,13,1479.6
+817,Center,3,frame,0,46,19,14,1629.99
+818,Center,3,blocky,0,46,20,13,1655.1
+819,Center,3,frame,0,46,28,6,1809
+820,CMR,3,brick,1,46,30,6,1350
+821,CMR,3,blocky,0,46,30,6,1188
+822,CMR,3,blocky,0,46,32,6,1296
+823,CMR,3,blocky,0,46,31,7,1890
+824,CMR,3,brick,1,46,32,6,1600.02
+825,YUMR,5,brick,1,46,22,11,1566
+826,KMR,1,blocky,0,47,30,8,1890
+827,Center,3,blocky,0,47,27,9,2160
+828,Center,3,frame,0,47,32,8,1080
+829,CMR,3,brick,1,47,28,6,1701
+830,CMR,3,frame,0,47,18,24,1620
+831,CMR,3,blocky,0,47,33,06.May,1620
+832,Center,3,frame,0,47.1,22.Apr,07.jan,1620
+833,CMR,3,blocky,0,47.6,34,06.May,1620
+834,GMR,1,blocky,0,48,32,6,1449.9
+835,GMR,1,frame,0,48,32.4,06.May,1755
+836,PMR,1,frame,0,48,29,8,1566
+837,Construction and installation work,1,frame,0,48,33,6,1652.4
+838,Construction and installation work,2,brick,1,48,33,6,1620
+839,FMR,2,frame,0,48,33,6,1749.6
+840,FMR,2,brick,1,48,32,6,1599.75
+841,FMR,2,blocky,0,48,20,12,1949.4
+842,FMR,2,blocky,0,48,20,11,1890
+843,FMR,2,frame,0,48,20,11,2160
+844,Center,3,blocky,0,48,30,6,1674
+845,Center,3,blocky,0,48,27,8,1620
+846,Center,3,brick,1,48,32,6,1800.9
+847,Center,3,frame,0,48,24,14,1215
+848,Center,3,frame,0,48,34,6,1701
+849,CMR,3,brick,1,48,32,6,1674
+850,CMR,3,brick,1,48,32,6,1649.7
+851,CMR,3,brick,1,48,15,10,1300.05
+852,YUMR,4,blocky,0,48,24,12,1836
+853,YUMR,4,brick,1,48,28,8,1750.005
+854,YUMR,4,brick,1,48,23,13,1444.5
+855,KMR,1,blocky,0,48.5,28.May,8,1782
+856,KMR,1,blocky,0,49,39,6,1350
+857,FMR,2,brick,1,49,32,8,1899.99
+858,Center,3,brick,1,49,27,10,1999.89
+859,CMR,3,brick,1,49,22,11,3501.9
+860,CMR,3,brick,1,49,22,11,2751.3
+861,GMR,1,frame,0,49.3,34.6,6,1728
+862,GMR,1,blocky,0,50,32,9,1215
+863,GMR,1,blocky,0,50,32,6,1458
+864,ZIP,1,frame,0,50,36,7,1701
+865,ZIP,1,frame,0,50,36,7,1566
+866,ZIP,1,frame,0,50,36,7,1539
+867,ZIP,1,frame,0,50,36,7,1599.75
+868,PMR,1,frame,0,50,32,10,1517.4
+869,PMR,1,frame,0,50,36,10,1501.2
+870,Construction and installation work,2,brick,1,50,30,6,1549.8
+871,Construction and installation work,2,brick,1,50,32,6,1549.8
+872,Construction and installation work,2,brick,1,50,32,8,1431
+873,FMR,2,blocky,0,50,35,6,2000.7
+874,FMR,2,brick,1,50,20,13,1501.2
+875,FMR,2,brick,1,50,20,13,1350
+876,FMR,2,brick,1,50,20,13,1404
+877,Center,2,brick,1,50,36,6,1701
+878,Center,2,brick,1,50,35,6,1620
+879,Center,3,blocky,0,50,35,8,1260.9
+880,Center,3,blocky,0,50,30,10,1458
+881,Center,3,blocky,0,50,37,7,2160
+882,Center,3,brick,1,50,33,6,2241
+883,Center,3,frame,0,50,35,6,1674
+884,CMR,3,brick,1,50,30,7,1749.6
+885,YUMR,4,brick,1,50,28,9,1900.8
+886,YUMR,5,brick,1,50,30,7,1899.99
+887,YUMR,5,frame,0,50.4,28.Jun,9,1539
+888,FMR,2,frame,0,50.5,35.5,6,1404
+889,GMR,1,blocky,0,51,21,7,1501.2
+890,FMR,2,brick,1,51,20,13,1755
+891,FMR,2,brick,1,51,20,11,561.6
+892,Center,2,blocky,0,51,29,8,1300.05
+893,Center,3,frame,0,51,26,12,3510
+894,Center,3,frame,0,51,21,11,1325.7
+895,School,3,blocky,0,51,20,11,1649.7
+896,School,3,brick,1,51,20,11,1652.4
+897,GMR,1,frame,0,52,30,8,1593
+898,KMR,1,blocky,0,52,40,10,3375
+899,KMR,1,blocky,0,52,28.Feb,8,1485
+900,Bridges,1,brick,1,52,20,11,1674
+901,Ros-kaya,1,brick,1,52,24,18,1401.3
+902,FMR,2,brick,1,52,30,8,1752.3
+903,FMR,2,brick,1,52,29,7,1899.99
+904,FMR,2,brick,1,52,20,12,2251.8
+905,FMR,2,frame,0,52,21,15.Aug,1674
+906,Center,2,blocky,0,52,36,7,1485
+907,Center,3,frame,0,52,30,8,1755
+908,Center,3,blocky,0,52,31,9,1849.5
+909,Center,3,frame,0,52,20,13,1699.92
+910,Center,3,frame,0,52,46,6,1039.5
+911,Center,3,frame,0,52,49,4,1134
+912,Center,3,frame,0,52,32,6,1485
+913,Ros-kaya,1,frame,0,52.8,28,08.Feb,1593
+914,KMR,1,blocky,0,53,32,9,1699.92
+915,KMR,1,blocky,0,53,32,08.Apr,1755
+916,PMR,1,frame,0,53,31,15,1242
+917,Construction and installation work,2,brick,1,53,32,9,1404
+918,Construction and installation work,2,brick,1,53,29,9,1699.92
+919,Center,2,blocky,0,53,38,6,1755
+920,CMR,3,blocky,0,53,36.2,07.Aug,1674
+921,School,3,brick,1,53,30,14,1809
+922,YUMR,4,brick,1,53,30,9,1949.94
+923,CMR,3,blocky,0,53.9,32.3,08.Jan,1728
+924,PMR,1,frame,0,54,32,10,1899.99
+925,FMR,2,brick,1,54,31,8,1952.1
+926,FMR,2,brick,1,54,31,8,1798.2
+927,Center,2,brick,1,54,38,6,1452.6
+928,Center,2,blocky,0,54,35,7,1890
+929,Center,2,blocky,0,54,40,6,2106
+930,Center,3,frame,0,54,32,8,1809
+931,Center,3,blocky,0,54,37,7,1485
+932,CMR,3,brick,1,54,36,6,1890
+933,CMR,3,blocky,0,54,40,5,1601.1
+934,CMR,3,blocky,0,54,40,5,1601.1
+935,YUMR,4,brick,1,54,32,10,2224.8
+936,GMR,1,blocky,0,55,32,9,1863
+937,FMR,2,blocky,0,55,39,6,1350
+938,FMR,2,blocky,0,55,37,6,3510
+939,FMR,2,frame,0,55,34,6,1836
+940,GMR,1,blocky,0,56,33,10,1501.2
+941,GMR,1,blocky,0,56,33,11,1100.007
+942,GMR,1,blocky,0,56,30,10,1198.8
+943,ZIP,1,brick,1,56,32,10,1899.99
+944,Construction and installation work,1,frame,0,56,42,6,1620
+945,Construction and installation work,2,brick,1,56,32,9,1649.7
+946,F.Tab,2,blocky,0,56,30,8,1741.5
+947,FMR,2,blocky,0,56,42,6,1749.6
+948,FMR,2,blocky,0,56,42,6,1601.1
+949,FMR,2,brick,1,56,38,7,1620
+950,Center,3,frame,0,56,34,7,1755
+951,Center,3,frame,0,56,30,9,2025
+952,Center,3,blocky,0,56,34,6,2025
+953,Center,3,brick,1,56,31,8,2799.9
+954,Center,3,frame,0,56,30,7,1107
+955,CMR,3,brick,1,56,41,6,1485
+956,CMR,3,blocky,0,56,42,6,1671.3
+957,CMR,3,blocky,0,56,42,6,1849.5
+958,CMR,3,blocky,0,56,41,6,1749.6
+959,CMR,3,brick,1,56,39,6,1749.6
+960,School,3,brick,1,56,30,9,1836
+961,YUMR,4,blocky,0,56,27,13,1755
+962,YUMR,5,brick,1,56,27,16,2000.7
+963,CMR,3,blocky,0,56.1,37.9,06.Apr,1811.7
+964,GMR,1,blocky,0,57,30,9,853.2
+965,GMR,1,blocky,0,57,31,11,899.1
+966,FMR,2,blocky,0,57,36,6,2600.1
+967,FMR,2,blocky,0,57,28,13,1944
+968,FMR,2,brick,1,57,29,14,1880.01
+969,FMR,2,brick,1,57,28,13,1939.95
+970,Center,2,brick,1,57,33,10,3915
+971,Center,3,brick,1,57,30,11,1485
+972,CMR,3,brick,1,57,40,6,1809
+973,CMR,3,blocky,0,57,36,6,1620
+974,FMR,2,frame,0,57.2,42.1,6,2295
+975,Center,3,frame,0,57.7,39.6,6,1242
+976,FMR,2,frame,0,58,41,8,2199.96
+977,FMR,2,frame,0,58,46,5,2997
+978,FMR,2,frame,0,58,40,6,2500.2
+979,FMR,2,frame,0,58,35,05.Aug,2430
+980,Center,2,brick,1,58,39,13,2700
+981,Center,2,brick,1,58,39,9,2565
+982,Center,2,blocky,0,58,25,17,1601.1
+983,Center,3,brick,1,58,29,11,2700
+984,Center,3,brick,1,58,29,11,2700
+985,Center,3,blocky,0,58.5,27,13,1890
+986,GMR,1,frame,0,59,39,7,1755
+987,KMR,1,blocky,0,59,44,9,2100.6
+988,Bridges,1,brick,1,59,46,6,1755
+989,FMR,2,blocky,0,59,42,15,1752.3
+990,FMR,2,blocky,0,59,42,6,1809
+991,FMR,2,blocky,0,59,42,6,1798.2
+992,FMR,2,brick,1,59,42,8,1899.99
+993,FMR,2,frame,0,59,42,6,1863
+994,Center,3,frame,0,59,30,8,2430
+995,CMR,3,brick,1,59,44,6,2970
+996,FMR,2,frame,0,59.4,37.7,07.May,2322
+997,CMR,3,blocky,0,59.4,44.4,06.Jul,1795.5
+998,FMR,2,frame,0,59.7,26.Feb,10.Jun,2646
+999,GMR,1,frame,0,60,42,7,2025
+1000,GMR,1,frame,0,60,46,7,1809
+1001,GMR,1,brick,1,60,43,07.May,1944
+1002,ZIP,1,frame,0,60,47,6,1699.92
+1003,ZIP,1,frame,0,60,43,6,1755
+1004,ZIP,1,frame,0,60,43,6,1755
+1005,ZIP,1,frame,0,60,43,06.May,1890
+1006,KMR,1,blocky,0,60,32,11,2025
+1007,KMR,1,blocky,0,60,44,7,2199.96
+1008,KMR,1,brick,1,60,45,6,1620
+1009,KMR,1,brick,1,60,36,6,1431
+1010,PMR,1,frame,0,60,36,12,1501.2
+1011,PMR,1,frame,0,60,38,9,1849.5
+1012,PMR,1,frame,0,60,31,12,1900.8
+1013,FMR,2,blocky,0,60,40,9,2737.8
+1014,FMR,2,blocky,0,60,41,6,1800.9
+1015,FMR,2,blocky,0,60,40,9,2600.1
+1016,FMR,2,blocky,0,60,45,6,2199.96
+1017,FMR,2,blocky,0,60,40,6,1768.5
+1018,FMR,2,blocky,0,60,42,6,1750.14
+1019,FMR,2,blocky,0,60,42,7,2025
+1020,FMR,2,blocky,0,60,43,7,1849.5
+1021,FMR,2,blocky,0,60,40,5,1799.82
+1022,FMR,2,frame,0,60,38,7,2079
+1023,FMR,2,frame,0,60,42,15,2403
+1024,Center,2,blocky,0,60,40,9,3510
+1025,Center,2,blocky,0,60,40,12,1620
+1026,Center,3,brick,1,60,28,18,1501.2
+1027,Center,3,frame,0,60,30,12,2400.3
+1028,Center,3,frame,0,60,30,12,2400.3
+1029,Center,3,frame,0,60,33,12,2100.6
+1030,Center,3,frame,0,60,40,9,1822.5
+1031,Center,3,frame,0,60,42,05.Aug,1890
+1032,Center,3,frame,0,60,45,6,2025
+1033,CMR,3,brick,1,60,45,6,1998
+1034,CMR,3,brick,1,60,40,9,1755
+1035,CMR,3,brick,1,60,40,6,2700
+1036,CMR,3,brick,1,60,40,6,1900.8
+1037,CMR,3,brick,1,60,40,6,1900.8
+1038,CMR,3,blocky,0,60,39,6,1849.5
+1039,CMR,3,blocky,0,60,46,6,1769.85
+1040,CMR,3,blocky,0,60,44,6,1890
+1041,CMR,3,brick,1,60,41,7,1950.75
+1042,CMR,3,brick,1,60,40,8,1890
+1043,CMR,3,brick,1,60,42,7,1749.6
+1044,CMR,3,brick,1,60,38,10,1620
+1045,CMR,3,blocky,0,60,31.9,11,1890
+1046,GMR,1,frame,0,61,45,8,1900.8
+1047,KMR,1,blocky,0,61,34,10,2199.96
+1048,KMR,1,blocky,0,61,34,10,2187
+1049,KMR,1,blocky,0,61,37,9,1755
+1050,KMR,1,brick,1,61,39,8,1458
+1051,Ros-kaya,1,brick,1,61,23,17,1149.93
+1052,Construction and installation work,1,frame,0,61,45,6,2214
+1053,FMR,2,blocky,0,61,39,8,2100.6
+1054,FMR,2,frame,0,61,40.5,07.Aug,2295
+1055,Center,2,brick,1,61,36,10,2295
+1056,Center,3,brick,1,61,33,15,2025
+1057,YUMR,4,blocky,0,61,32,10,1609.2
+1058,YUMR,4,brick,1,61,31,10,2199.96
+1059,GMR,1,brick,1,61.6,47.4,6,1755
+1060,GMR,1,frame,0,62,38,8,1800.9
+1061,KMR,1,brick,1,62,40,9,2025
+1062,KMR,1,brick,1,62,45,7,1998
+1063,KMR,1,frame,0,62,38,10,2133
+1064,Bridges,1,brick,1,62,48,8,1735.83
+1065,Construction and installation work,1,frame,0,62,46,6,1809
+1066,Construction and installation work,2,brick,1,62,32,10,1879.2
+1067,Construction and installation work,2,blocky,0,62,45,6,1755
+1068,F.Tab,2,blocky,0,62,39,8,1849.5
+1069,FMR,2,frame,0,62,45,6,1800.9
+1070,FMR,2,brick,1,62,32,26,2700
+1071,Center,2,blocky,0,62,33,8,2999.7
+1072,Center,2,blocky,0,62,45,8,2430
+1073,Center,2,blocky,0,62,38,8,2700
+1074,Center,3,brick,1,62,35,9,2187
+1075,Center,3,frame,0,62,37,10,2173.5
+1076,Center,3,frame,0,62,45,6,2241
+1077,YUMR,4,brick,1,62,33,10,1552.5
+1078,YUMR,4,brick,1,62,33,13,1795.5
+1079,YUMR,4,blocky,0,62,32,13,1849.5
+1080,YUMR,4,blocky,0,62,33,16,2700
+1081,Center,3,brick,1,62.1,45.5,6,1890
+1082,FMR,2,frame,0,62.9,45.4,06.May,1998
+1083,GMR,1,frame,0,63,38,8,1849.5
+1084,GMR,1,frame,0,63,38,8,1836
+1085,GMR,1,brick,1,63,48.2,06.Jun,1404
+1086,ZIP,1,frame,0,63,40,08.May,2241
+1087,PMR,1,frame,0,63,50,7,1701
+1088,Construction and installation work,2,brick,1,63,46,10,2052
+1089,FMR,2,frame,0,63,46,06.Jul,2133
+1090,Center,2,blocky,0,63,37,7,2322
+1091,Center,2,blocky,0,63,37,7,2349
+1092,Center,3,frame,0,63.1,45.6,06.May,1917
+1093,KMR,1,brick,1,64,42,8,1728
+1094,KMR,1,brick,1,64,37,10,2150.01
+1095,KMR,1,frame,0,64,38,8,1999.89
+1096,KMR,1,frame,0,64,38,8,1949.4
+1097,KMR,1,frame,0,64,38,8,2214
+1098,F.Tab,2,blocky,0,64,38,9,2070.9
+1099,F.Tab,2,blocky,0,64,46,7,2349
+1100,Center,2,brick,1,64,39,10,2700
+1101,Center,2,blocky,0,64,36,8,3510
+1102,Center,2,blocky,0,64,38,9,1849.5
+1103,Center,2,blocky,0,64,36,9,3510
+1104,Center,2,blocky,0,64,45,9,3510
+1105,Center,3,blocky,0,64,31,11,1798.2
+1106,Center,3,blocky,0,64,37,15,1701
+1107,CMR,3,brick,1,64,40,8,2500.2
+1108,YUMR,4,frame,0,64,42,8,1899.99
+1109,YUMR,4,brick,1,64,42,9,2799.9
+1110,GMR,1,frame,0,65,38,8,1952.1
+1111,ZIP,1,brick,1,65,37,12,3780
+1112,KMR,1,brick,1,65,45,6,1900.8
+1113,KMR,1,brick,1,65,39,9,1890
+1114,Bridges,1,brick,1,65,24,17,1652.4
+1115,Ros-kaya,1,frame,0,65,40,8,1800.9
+1116,Construction and installation work,2,brick,1,65,31,15,2052
+1117,Construction and installation work,2,brick,1,65,31,15,1900.8
+1118,Construction and installation work,2,brick,1,65,32,12,1899.99
+1119,Center,2,blocky,0,65,40,7,2149.2
+1120,Center,3,brick,1,65,42,7,1863
+1121,Center,3,frame,0,65,42.5,8,2430
+1122,School,3,brick,1,65,40,9,3299.4
+1123,YUMR,4,brick,1,65,48,18,2500.2
+1124,GMR,1,frame,0,66,38,7,1944
+1125,GMR,1,frame,0,66,42,6,2200.5
+1126,ZIP,1,brick,1,66,30,14,1385.91
+1127,ZIP,1,frame,0,66,42,8,3250.8
+1128,Center,2,brick,1,66,49,6,5400
+1129,Center,2,blocky,0,66,49,6,4320
+1130,Center,2,brick,1,66,40,10,2484
+1131,YUMR,5,frame,0,66,48,8,1944
+1132,CMR,3,blocky,0,66.5,39,08.May,2295
+1133,GMR,1,frame,0,67,38,8,2000.7
+1134,GMR,1,frame,0,67,39,8,2199.96
+1135,GMR,1,frame,0,67,41,8,2000.7
+1136,KMR,1,brick,1,67,40,9,1960.2
+1137,KMR,1,brick,1,67,39,9,1944
+1138,KMR,1,frame,0,67,45,6,1649.7
+1139,Bridges,1,brick,1,67,45,9,1620
+1140,PMR,1,frame,0,67,49,7,1800.9
+1141,FMR,2,brick,1,67,33,16,2100.6
+1142,FMR,2,brick,1,67,33,16,2100.6
+1143,FMR,2,blocky,0,67,33,16,2200.5
+1144,FMR,2,blocky,0,67,33,16,2199.96
+1145,FMR,2,blocky,0,67,33,16,2106
+1146,Center,3,frame,0,67,31,9,2700
+1147,Center,3,brick,1,67,33,12,2168.1
+1148,YUMR,4,frame,0,67,42,12,2500.2
+1149,YUMR,6,frame,0,67,41,9,2160
+1150,ZIP,1,frame,0,67.8,33,15.Jul,1817.1
+1151,GMR,1,frame,0,68,46,15,2052
+1152,GMR,1,frame,0,68,44,13,2160
+1153,KMR,1,blocky,0,68,45,7,1809
+1154,KMR,1,brick,1,68,42,9,1782
+1155,KMR,1,brick,1,68,45,6,1620
+1156,KMR,1,blocky,0,68,40,07.May,2025
+1157,KMR,1,blocky,0,68,38,7,2160
+1158,Construction and installation work,2,brick,1,68,33,16,2249.1
+1159,FMR,2,frame,0,68,34,16,2011.5
+1160,FMR,2,blocky,0,68,34,16,2235.6
+1161,FMR,2,blocky,0,68,34,16,2199.96
+1162,Center,2,blocky,0,68,38,11,2160
+1163,YUMR,4,brick,1,68,38,11,2511
+1164,YUMR,4,blocky,0,68,35,10,2600.1
+1165,YUMR,4,blocky,0,68,33,16,1800.9
+1166,ZIP,1,frame,0,68.2,33,15.Jul,1795.5
+1167,KMR,1,frame,0,69,43,12,2100.6
+1168,Bridges,1,brick,1,69,24,17,1660.5
+1169,FMR,2,blocky,0,69,39,10,4050
+1170,FMR,2,frame,0,69,42.7,09.May,2241
+1171,Center,2,blocky,0,69,46,6,2160
+1172,Center,3,blocky,0,69,24,17,1649.7
+1173,CMR,3,brick,1,69,39,8,2000.7
+1174,YUMR,4,brick,1,69,37,12,2529.9
+1175,Center,3,blocky,0,69.8,30.jan,15,2079
+1176,GMR,1,frame,0,70,45,12,2399.76
+1177,ZIP,1,brick,1,70,32,20,2565
+1178,ZIP,1,brick,1,70,34,16,2300.4
+1179,KMR,1,blocky,0,70,44,7,1944
+1180,KMR,1,blocky,0,70,44,7,1944
+1181,KMR,1,brick,1,70,42,11,2079
+1182,KMR,1,brick,1,70,42,9,1782
+1183,KMR,1,brick,1,70,43,9,1404
+1184,KMR,1,brick,1,70,46,8,1620
+1185,KMR,1,frame,0,70,40,9,1944
+1186,PMR,1,frame,0,70,34,19,2187
+1187,PMR,1,frame,0,70,36,16,2276.1
+1188,Construction and installation work,1,frame,0,70,34,16,1952.1
+1189,Construction and installation work,2,brick,1,70,33,16,1782
+1190,Construction and installation work,2,brick,1,70,34,16,2169.99
+1191,Construction and installation work,2,brick,1,70,34,16,1852.2
+1192,Construction and installation work,2,blocky,0,70,34,16,1301.4
+1193,FMR,2,frame,0,70,47,7,4099.95
+1194,FMR,2,frame,0,70,33,15,1949.4
+1195,FMR,2,brick,1,70,34,14,2187
+1196,FMR,2,blocky,0,70,41,12,2549.88
+1197,FMR,2,blocky,0,70,36,16,2000.7
+1198,FMR,2,blocky,0,70,33,15,2149.2
+1199,FMR,2,blocky,0,70,33,15,2149.2
+1200,FMR,2,blocky,0,70,33,16,2100.6
+1201,FMR,2,blocky,0,70,33,15,2299.86
+1202,FMR,2,frame,0,70,44,7,1944
+1203,Center,2,brick,1,70,48,8,3780
+1204,Center,2,brick,1,70,47,9,1890
+1205,Center,2,blocky,0,70,43,9,2430
+1206,Center,2,blocky,0,70,40,10,2100.6
+1207,Center,2,brick,1,70,49,8,1890
+1208,Center,3,brick,1,70,32,15,2295
+1209,Center,3,brick,1,70,36,12,1900.8
+1210,Center,3,brick,1,70,40,14,2970
+1211,Center,3,frame,0,70,40,14,2970
+1212,Center,3,frame,0,70,35,11,2899.8
+1213,Center,3,frame,0,70,29,15,2239.92
+1214,CMR,3,brick,1,70,44,12,2362.5
+1215,CMR,3,brick,1,70,38,6,1798.2
+1216,School,3,brick,1,70,35,15,2106
+1217,School,3,brick,1,70,33,16,2241
+1218,School,3,brick,1,70,35,15,2100.6
+1219,School,3,brick,1,70,35,15,2199.96
+1220,School,3,brick,1,70,40,10,1890
+1221,YUMR,4,frame,0,70,44,10,2079
+1222,YUMR,4,frame,0,70,34,12,2349
+1223,YUMR,4,frame,0,70,34,12,2349
+1224,YUMR,4,brick,1,70,50,9,3132
+1225,YUMR,4,brick,1,70,40,8,2484
+1226,YUMR,4,brick,1,70,44,9,2052
+1227,YUMR,4,brick,1,70,44,16,2400.3
+1228,YUMR,4,brick,1,70,35,15,2300.4
+1229,YUMR,4,brick,1,70,36,14,1998
+1230,YUMR,4,brick,1,70,37,14,2149.2
+1231,YUMR,4,blocky,0,70,33,16,2106
+1232,YUMR,5,brick,1,70,26,16,2500.2
+1233,ZIP,1,brick,1,71,36,11,1279.8
+1234,ZIP,1,brick,1,71,36,11,1309.5
+1235,ZIP,1,brick,1,71,36,11,1306.8
+1236,FMR,2,frame,0,71,33,15,2100.6
+1237,FMR,2,frame,0,71,41,13,2160
+1238,Center,3,frame,0,71,46,8,2025
+1239,GMR,1,frame,0,72,52,9,1890
+1240,ZIP,1,brick,1,72,48,16,2700
+1241,ZIP,1,frame,0,72,37,11.May,1485
+1242,KMR,1,brick,1,72,48,8,1620
+1243,KMR,1,brick,1,72,42,8,1755
+1244,KMR,1,brick,1,72,43,9,1944
+1245,KMR,1,brick,1,72,44,12,2511
+1246,KMR,1,brick,1,72,44,10,1800.9
+1247,KMR,1,frame,0,72,43,10,1800.9
+1248,KMR,1,blocky,0,72,45,8,2300.4
+1249,KMR,1,frame,0,72,42,9,1809
+1250,KMR,1,frame,0,72,39,9,2600.1
+1251,KMR,1,frame,0,72,42,8,1809
+1252,KMR,1,frame,0,72,42,8,1849.5
+1253,KMR,1,frame,0,72,42,8,1971
+1254,KMR,1,frame,0,72,44,9,2538
+1255,KMR,1,blocky,0,72,42,9,2106
+1256,Center,2,blocky,0,72,43,10,2511
+1257,Center,3,frame,0,72,44,14,2308.5
+1258,CMR,3,brick,1,72,42,8,3024
+1259,CMR,3,brick,1,72,33,16,2322
+1260,School,3,brick,1,72,33,16,2295
+1261,YUMR,4,frame,0,72,42,8,1917
+1262,YUMR,4,brick,1,72,43,10,2832.3
+1263,YUMR,4,blocky,0,72,42,9,2079
+1264,YUMR,4,blocky,0,72,42,9,2100.6
+1265,YUMR,4,blocky,0,72,42,8,2700
+1266,YUMR,4,blocky,0,72,33,1,1836
+1267,YUMR,4,brick,1,72,37,12,1629.45
+1268,YUMR,4,brick,1,72,39,12,1819.8
+1269,YUMR,4,brick,1,72,36,11,1552.5
+1270,YUMR,4,brick,1,72,33,16,1998
+1271,YUMR,4,brick,1,72,33,15,2149.2
+1272,Center,3,brick,1,72.8,60.5,08.Feb,4860
+1273,GMR,1,frame,0,73,44,12,2397.6
+1274,KMR,1,frame,0,73,42,8,1890
+1275,FMR,2,frame,0,73,47,15,2079
+1276,Center,2,blocky,0,73,53,8,6750
+1277,Center,3,blocky,0,73,54,6,2160
+1278,Center,3,frame,0,73,50,9,2430
+1279,YUMR,4,brick,1,73,35,16,3510
+1280,Center,3,frame,0,73.4,50.9,08.Apr,2241
+1281,Ros-kaya,1,frame,0,74,28.May,9,837
+1282,FMR,2,blocky,0,74,38,15,2300.4
+1283,Center,2,blocky,0,74,51,9,3483
+1284,Center,2,blocky,0,74,41,14,3199.5
+1285,Center,2,brick,1,74,51,9,3375
+1286,Center,3,frame,0,74,35,13,2380.59
+1287,School,3,brick,1,74,46,12,2367.9
+1288,School,3,frame,0,74,46,12,1890
+1289,YUMR,4,frame,0,74,42,8,2700
+1290,YUMR,4,brick,1,74,43,12,2400.3
+1291,YUMR,4,blocky,0,74,50,14,2000.7
+1292,YUMR,4,blocky,0,74,50,14,2000.7
+1293,YUMR,4,brick,1,74,34,14,1852.47
+1294,KMR,1,blocky,0,75,54,9,1755
+1295,Construction and installation work,1,frame,0,75,42,14,2295
+1296,FMR,2,frame,0,75,42,12,2376
+1297,FMR,2,blocky,0,75,40,12,3105
+1298,FMR,2,blocky,0,75,34,18,1999.89
+1299,FMR,2,brick,1,75,43,14,2835
+1300,Center,2,frame,0,75,51,18,3202.2
+1301,Center,2,frame,0,75,48,15,3267
+1302,Center,2,frame,0,75,47,11,3105
+1303,Center,3,brick,1,75,35,17,2799.9
+1304,CMR,3,brick,1,75,35,17,2400.3
+1305,YUMR,4,frame,0,75,42,15,2400.3
+1306,YUMR,4,brick,1,75,42,15,2449.98
+1307,YUMR,4,brick,1,75,53,10,2950.02
+1308,YUMR,4,blocky,0,75,42,15,2400.3
+1309,YUMR,6,frame,0,75,38,11,2241
+1310,KMR,1,blocky,0,75.2,51.8,9,2160
+1311,GMR,1,frame,0,76,45,10,2214
+1312,GMR,1,brick,1,76,45,12,2295
+1313,FMR,2,frame,0,76,40,11,4050
+1314,Center,2,brick,1,76,48,12,2799.9
+1315,Center,2,frame,0,76,44,12,3780
+1316,CMR,3,brick,1,76,49,10,1701
+1317,YUMR,4,blocky,0,76,36,14,2100.6
+1318,Center,3,brick,1,76.7,55.8,18,2079
+1319,KMR,1,brick,1,77,52,9,2299.86
+1320,KMR,1,blocky,0,77,52,11,3240
+1321,Construction and installation work,1,frame,0,77,48,12,2079
+1322,FMR,2,blocky,0,77,45,15,3105
+1323,FMR,2,brick,1,77,45,15,3240
+1324,Center,2,frame,0,77,43,19,2430
+1325,Center,2,frame,0,77,48,9,2592
+1326,CMR,3,blocky,0,77,44,11.May,2295
+1327,YUMR,6,frame,0,77,42,8,2430
+1328,ZIP,1,frame,0,77.3,41.3,11.mar,2430
+1329,GMR,1,brick,1,77.4,56,11,2295
+1330,KMR,1,blocky,0,77.5,51.7,10,4185
+1331,GMR,1,frame,0,78,45,12,2149.2
+1332,GMR,1,frame,0,78,52,9,2299.995
+1333,GMR,1,frame,0,78,52,9,2160
+1334,GMR,1,frame,0,78,52,9,2200.5
+1335,KMR,1,blocky,0,78,52,9,1755
+1336,KMR,1,blocky,0,78,52,8,1836
+1337,KMR,1,blocky,0,78,52,9,2199.96
+1338,KMR,1,blocky,0,78,52,9,2106
+1339,KMR,1,frame,0,78,54,10,2295
+1340,KMR,1,brick,1,78,52,9,2214
+1341,KMR,1,brick,1,78,52,10,2160
+1342,KMR,1,frame,0,78,52,9,2160
+1343,KMR,1,frame,0,78,52,9,2187
+1344,KMR,1,blocky,0,78,52,11,2403
+1345,F.Tab,2,blocky,0,78,48,9,2349
+1346,F.Tab,2,blocky,0,78,48,9,2160
+1347,F.Tab,2,blocky,0,78,52,12,2300.4
+1348,F.Tab,2,blocky,0,78,52,12,2300.4
+1349,CMR,3,brick,1,78,56,12,2200.5
+1350,CMR,3,brick,1,78,56,12,2300.4
+1351,YUMR,4,frame,0,78,49,9,2133
+1352,YUMR,4,brick,1,78,56,10,2160
+1353,YUMR,6,frame,0,78,42.3,14,2187
+1354,YUMR,6,frame,0,78,52,10,2241
+1355,YUMR,6,frame,0,78,58,12,2376
+1356,School,4,frame,0,78.5,52,08.May,2700
+1357,KMR,1,blocky,0,79,55,10,2299.05
+1358,KMR,1,blocky,0,79,52,9,2200.5
+1359,PMR,1,frame,0,79,52,10,2397.6
+1360,Construction and installation work,1,frame,0,79,49,11,2370.6
+1361,FMR,2,brick,1,79,59,14,2430
+1362,YUMR,4,frame,0,79,49,9,2200.5
+1363,YUMR,4,blocky,0,79,49,9,2200.5
+1364,YUMR,6,frame,0,79,52,10,2430
+1365,PMR,1,frame,0,79.4,42,14,1944
+1366,ZIP,1,brick,1,80,43,16,2700
+1367,KMR,1,brick,1,80,54,10,2970
+1368,PMR,1,frame,0,80,42,14,2119.5
+1369,PMR,1,frame,0,80,45,14,1917
+1370,PMR,1,frame,0,80,42,14,2099.79
+1371,PMR,1,frame,0,80,42,14,2200.5
+1372,FMR,2,blocky,0,80,42,11,4050
+1373,FMR,2,blocky,0,80,45,9,2700
+1374,FMR,2,blocky,0,80,43,15,3105
+1375,FMR,2,frame,0,80,53.5,08.Feb,3375
+1376,Center,2,brick,1,80,55,14,2160
+1377,Center,2,brick,1,80,50,12,2597.4
+1378,Center,2,frame,0,80,46,9,3402
+1379,Center,3,frame,0,80,40,10,4050
+1380,Center,3,frame,0,80,29,32,3898.8
+1381,Center,3,frame,0,80,38,12,3499.2
+1382,Center,3,blocky,0,80,23.Feb,07.Aug,810
+1383,Center,3,brick,1,80,50,10,3240
+1384,CMR,3,blocky,0,80,52,10,2430
+1385,CMR,3,blocky,0,80,60,10,2646
+1386,CMR,3,brick,1,80,32,10,2160
+1387,CMR,3,blocky,0,80,52,8,2484
+1388,School,4,frame,0,80,53,12,2430
+1389,YUMR,4,frame,0,80,50,18,2500.2
+1390,YUMR,4,brick,1,80,52,9,2430
+1391,YUMR,4,brick,1,80,50,15,2835
+1392,YUMR,4,brick,1,80,50,16,2605.5
+1393,YUMR,4,brick,1,80,40,18,3501.9
+1394,YUMR,4,brick,1,80,45,18,3500.01
+1395,Center,3,brick,1,81,57,10,2619
+1396,Construction and installation work,1,frame,0,82,45,20,2214
+1397,FMR,2,frame,0,82,64,15,2999.7
+1398,FMR,2,blocky,0,82,59,15,2651.4
+1399,Center,2,brick,1,82,52,10,3240
+1400,Center,2,brick,1,82,50,10,2500.2
+1401,Center,2,brick,1,82,50,10,2500.2
+1402,CMR,3,blocky,0,82,45.5,16,2079
+1403,YUMR,4,brick,1,82,52,15,2500.2
+1404,YUMR,4,blocky,0,82,54,13,2700
+1405,Construction and installation work,1,frame,0,83,52,20,2651.4
+1406,Construction and installation work,1,frame,0,83,54,20,2673
+1407,FMR,2,blocky,0,83,41,19,4492.8
+1408,Center,2,frame,0,83,56,14,5400
+1409,Center,3,brick,1,83,60.7,8,1755
+1410,YUMR,4,brick,1,83,50,13,2025
+1411,KMR,1,frame,0,84,52,9,2214
+1412,KMR,1,blocky,0,84,54,8,2295
+1413,Construction and installation work,1,frame,0,84,53,20,2600.1
+1414,FMR,2,blocky,0,84,54,7,2600.1
+1415,YUMR,4,brick,1,84,54,15,2392.2
+1416,Construction and installation work,1,frame,0,85,70,9,3199.5
+1417,Center,3,frame,0,85,50,13,2124.9
+1418,CMR,3,blocky,0,85,52,10,2600.1
+1419,CMR,3,brick,1,85,46,12,2997
+1420,GMR,1,frame,0,86,56,12,2097.9
+1421,Center,2,frame,0,86,44,12,3780
+1422,Center,3,frame,0,86,45,14,2149.2
+1423,CMR,3,brick,1,86,42,19,2835
+1424,YUMR,4,brick,1,86,50,13,2497.5
+1425,YUMR,4,blocky,0,86,52,14,2349
+1426,YUMR,4,blocky,0,86,45,17,2457
+1427,FMR,2,frame,0,87,63,9,4050
+1428,YUMR,4,brick,1,87,56,10,2295
+1429,YUMR,4,brick,1,87,56,10,2295
+1430,YUMR,4,brick,1,87,51,10,2851.2
+1431,YUMR,4,blocky,0,87,45,10,2835
+1432,YUMR,4,blocky,0,87,51,10,2848.5
+1433,KMR,1,blocky,0,88,52,9,2025
+1434,YUMR,4,brick,1,88,54,9,2430
+1435,YUMR,4,blocky,0,88,50,20,2754
+1436,ZIP,1,frame,0,90,52,12,2878.2
+1437,KMR,1,blocky,0,90,54,11,2700
+1438,Ros-kaya,1,blocky,0,90,45,20,2254.5
+1439,Ros-kaya,1,frame,0,90,52,24,3240
+1440,Center,3,frame,0,90,50,12,6750
+1441,GMR,1,frame,0,91,70,17,2430
+1442,GMR,1,frame,0,91,52,13,1499.85
+1443,Center,3,frame,0,91,52,12,3051
+1444,CMR,3,brick,1,91,56,10,3500.01
+1445,YUMR,4,brick,1,91,56,10,3302.1
+1446,Center,2,brick,1,93,52,11,2241
+1447,YUMR,4,blocky,0,93,57,9,2324.7
+1448,Center,3,brick,1,94.3,56.6,10,4185
+1449,ZIP,1,frame,0,95,72,10,3526.2
+1450,Bridges,1,brick,1,95,55,13,3099.978
+1451,FMR,2,blocky,0,95,40,15,2570.4
+1452,FMR,2,blocky,0,95,52,14,4725
+1453,FMR,2,blocky,0,95,48,13,4725
+1454,Center,2,brick,1,95,65,15,3302.1
+1455,Center,2,frame,0,95,65,15,3402
+1456,Center,2,frame,0,95,55,13,2751.3
+1457,Center,3,brick,1,95,75,10,1984.5
+1458,School,3,brick,1,95,55,13,3051
+1459,YUMR,4,brick,1,95,61,15,2700
+1460,ZIP,1,frame,0,96,72,11,3199.5
+1461,Center,2,brick,1,96,68,9,5999.94
+1462,Center,2,frame,0,96,65,15,3294
+1463,Center,3,brick,1,96,65,15.May,4185
+1464,CMR,3,blocky,0,96,64,9,5940
+1465,YUMR,4,brick,1,96,50,20,3099.6
+1466,YUMR,4,blocky,0,96,50,20,3051
+1467,YUMR,4,blocky,0,96,50,20,2902.5
+1468,FMR,2,frame,0,97,41,6,2295
+1469,Center,3,frame,0,97,46,17,3119.985
+1470,YUMR,4,brick,1,97,56,12,2700
+1471,YUMR,4,brick,1,97,56,12,2700
+1472,YUMR,4,brick,1,97,56,12,2700
+1473,Construction and installation work,1,frame,0,98,48,20,2600.1
+1474,FMR,2,blocky,0,98,66,12,4455
+1475,YUMR,4,blocky,0,98,50,18,2376
+1476,YUMR,4,blocky,0,99,53,12,2497.5
+1477,GMR,1,frame,0,100,60,8,2700
+1478,ZIP,1,frame,0,100,66,8,3199.5
+1479,KMR,1,blocky,0,100,50,30,4320
+1480,F.Tab,2,blocky,0,100,62,15,3240
+1481,FMR,2,blocky,0,100,67,13,4455
+1482,FMR,2,frame,0,100,64,12,2970
+1483,FMR,2,brick,1,100,67,13,4050
+1484,FMR,2,brick,1,100,65,15,3798.9
+1485,Center,2,brick,1,100,53,10,3780
+1486,Center,3,frame,0,100,70,20,4563
+1487,CMR,3,blocky,0,100,55,15,3780
+1488,CMR,3,brick,1,100,56,11,3456
+1489,School,3,brick,1,100,62,14,3240
+1490,YUMR,4,brick,1,100,73,8,2592
+1491,YUMR,4,brick,1,100,73,8,2605.5
+1492,YUMR,4,brick,1,100,73,8,2605.5
+1493,YUMR,4,brick,1,100,66,10,2500.2
+1494,YUMR,7,frame,0,100,70,10,2835
+1495,Center,2,brick,1,102,70,8,3645
+1496,PMR,1,frame,0,103,52,7,2999.7
+1497,FMR,2,brick,1,104,65,12,2592
+1498,ZIP,1,frame,0,105,60,16,3618
+1499,Ros-kaya,1,brick,1,105,60,12,3618
+1500,Ros-kaya,1,frame,0,105,60,16,3599.1
+1501,Ros-kaya,1,frame,0,105,70,16,3599.1
+1502,Ros-kaya,1,frame,0,105,60,16,3650.4
+1503,Ros-kaya,1,frame,0,105,55,15,4320
+1504,CMR,3,blocky,0,105,65,15,3240
+1505,School,4,frame,0,105,70,20,4320
+1506,School,4,frame,0,105,70,20,4320
+1507,FMR,2,brick,1,107,55,15,3780
+1508,School,4,frame,0,108,63,9,2295
+1509,Center,3,brick,1,108.4,52.1,12,3901.5
+1510,CMR,3,blocky,0,108.9,63.8,12,3429
+1511,Center,2,brick,1,109,75,12,2725.11
+1512,FMR,2,brick,1,110,68,15,5940
+1513,Center,2,brick,1,110,65,18,4860
+1514,Center,2,frame,0,110,65,18,4995
+1515,CMR,3,blocky,0,111,80,16,2999.7
+1516,FMR,2,brick,1,112,90,18,3510
+1517,FMR,2,brick,1,112,97,15,3510
+1518,FMR,2,brick,1,112,63,14,3807
+1519,CMR,3,blocky,0,112,98,12,4185
+1520,Center,2,brick,1,115,85,10,3240
+1521,YUMR,4,blocky,0,115,60,12,3996
+1522,YUMR,4,blocky,0,115,60,12,4000.05
+1523,Center,2,frame,0,117,68,16,4185
+1524,YUMR,4,brick,1,117,63,15,3186
+1525,YUMR,4,blocky,0,117,66,22,5130
+1526,KMR,1,brick,1,118,70,20,2565
+1527,KMR,1,brick,1,118,70,20,2565
+1528,YUMR,4,brick,1,118,70,17,3375
+1529,KMR,1,brick,1,120,70,20,2565
+1530,Ros-kaya,1,frame,0,120,59,16,4050
+1531,Center,2,frame,0,120,60,14,3510
+1532,Center,3,brick,1,120.5,80,8,5670
+1533,Center,2,frame,0,121,90,18,3267
+1534,YUMR,4,brick,1,123,70,26,3690.9
+1535,KMR,1,blocky,0,124,70,30,4050
+1536,ZIP,1,frame,0,125,67,15,3186
+1537,ZIP,1,frame,0,125,83,7,2835
+1538,PMR,1,frame,0,125,80,20,2106
+1539,Center,3,brick,1,125,83,10,7020
+1540,ZIP,1,frame,0,126,67,15,2700
+1541,Center,3,brick,1,127.2,79.9,11,4131
+1542,KMR,1,blocky,0,130,60,20,4050
+1543,YUMR,4,brick,1,130,90,15,4995
+1544,YUMR,7,frame,0,130,80,10,5130
+1545,FMR,2,frame,0,132,80,15,2025
+1546,GMR,1,brick,1,134,84.3,15,3375
+1547,CMR,3,blocky,0,134,84,8,3645
+1548,Center,2,frame,0,135,70,13,4725
+1549,CMR,3,blocky,0,135,115,10,3375
+1550,GMR,1,frame,0,136,87,12,3240
+1551,GMR,1,frame,0,136,107,12,3645
+1552,FMR,2,frame,0,140,83,28,10260
+1553,CMR,3,blocky,0,140,85,10,3375
+1554,CMR,3,blocky,0,140,85,10,3375
+1555,FMR,2,brick,1,145,80,9,3375
+1556,CMR,3,blocky,0,147,82,18,3231.9
+1557,CMR,3,blocky,0,147,82,18,2430
+1558,CMR,3,blocky,0,147,82,18,3240
+1559,CMR,3,blocky,0,147,118,15,3105
+1560,CMR,3,blocky,0,147,100,15,3159
+1561,Center,2,brick,1,150,90,20,5400
+1562,Center,2,brick,1,150,75,20,6075
+1563,School,4,frame,0,150,84,18,3780
+1564,YUMR,4,brick,1,150,100,20,4198.5
+1565,FMR,2,frame,0,156,82,17,4590
+1566,FMR,2,brick,1,156.7,101.1,12,7290
+1567,Center,2,brick,1,162,86,13,5670
+1568,Center,3,brick,1,166,98,25,6210
+1569,Ros-kaya,1,frame,0,174,98,21.May,2619
+1570,YUMR,4,brick,1,177,36,14,4590
+1571,Ros-kaya,1,frame,0,204,111,19,4590
+1572,Center,3,brick,1,205,110,22,5535
+1573,CMR,3,blocky,0,226,70,20,5940

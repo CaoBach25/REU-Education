@@ -1,0 +1,7 @@
+Number,District,Number of Rooms,Building Type,Indicator Variable,Total Area,Living Area,Kitchen Area,Price (thousands of rubles)
+1,FMR,3,Block,0,104,43,6,5467
+2,FMR,4,Block,0,220,45,4,4564
+3,FMR,1,Block,0,35,43,5,1450
+4,FMR,1,Block,0,45,43,2,1543
+5,FMR,3,Block,0,57,41,1,4367
+6,Suburb,4,Block,0,81,48,1,2345
