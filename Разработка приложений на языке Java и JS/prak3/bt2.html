@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Площадь квадрата</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
+    input {
+      margin: 5px;
+    }
+    label {
+      display: inline-block;
+      width: 100px;
+    }
+  </style>
+  <script>
+    // Hàm tính diện tích hình vuông
+    function calculateSquareArea(form) {
+      const side = parseFloat(form.elements["side"].value);
+      if (isNaN(side)) {
+        form.elements["area"].value = "Ошибка";
+        return;
+      }
+      const area = side * side;
+      form.elements["area"].value = area.toFixed(2);
+    }
+
+    // Hàm làm mới form
+    function resetForm(form) {
+      form.reset();
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Расчет площади квадрата</h2>
+
+  <form name="squareForm">
+    <label>Сторона:</label>
+    <input type="number" name="side" step="any" onchange="calculateSquareArea(this)">
+    <br>
+
+    <label>Площадь:</label>
+    <input type="text" name="area" readonly>
+    <br>
+
+    <button type="button" onclick="resetForm(squareForm)">Обновить</button>
+  </form>
+
+</body>
+</html>

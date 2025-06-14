@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Анкета переводчика</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #eef2f3;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input[type="text"] {
+      margin-top: 10px;
+      width: 100%;
+      font-weight: bold;
+    }
+    button {
+      margin-top: 15px;
+      margin-right: 10px;
+    }
+  </style>
+  <script>
+    function calculateReward() {
+      let sum = 0;
+      if (document.getElementById("ru").checked) sum += 100;
+      if (document.getElementById("en").checked) sum += 300;
+      if (document.getElementById("fr").checked) sum += 200;
+      if (document.getElementById("cn").checked) sum += 300;
+
+      document.getElementById("reward").value = "Ваше вознаграждение: " + sum + " руб.";
+    }
+
+    function resetForm() {
+      document.getElementById("form").reset();
+      document.getElementById("reward").value = "";
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Анкета переводчика</h2>
+
+  <form id="form">
+    <label><input type="checkbox" id="ru"> Русский язык (100 руб.)</label>
+    <label><input type="checkbox" id="en"> Английский язык (300 руб.)</label>
+    <label><input type="checkbox" id="fr"> Французский язык (200 руб.)</label>
+    <label><input type="checkbox" id="cn"> Китайский язык (300 руб.)</label>
+
+    <button type="button" onclick="calculateReward()">Вознаграждение</button>
+    <button type="button" onclick="resetForm()">Отменить</button>
+
+    <input type="text" id="reward" readonly>
+  </form>
+
+</body>
+</html>

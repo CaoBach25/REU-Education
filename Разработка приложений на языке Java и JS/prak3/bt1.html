@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Площадь прямоугольного треугольника</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f8f8f8;
+    }
+    input {
+      margin: 5px;
+    }
+    #result {
+      margin-top: 15px;
+      font-weight: bold;
+      color: darkgreen;
+    }
+  </style>
+  <script>
+    // Hàm tính diện tích tam giác vuông
+    function triangleArea(a, h) {
+      return 0.5 * a * h;
+    }
+
+    // Xử lý khi nhấn nút
+    function calculate() {
+      const a = parseFloat(document.getElementById("base").value);
+      const h = parseFloat(document.getElementById("height").value);
+      const resultDiv = document.getElementById("result");
+
+      if (isNaN(a) || isNaN(h)) {
+        resultDiv.textContent = "Пожалуйста, введите корректные значения.";
+        return;
+      }
+
+      const area = triangleArea(a, h);
+      resultDiv.textContent = "Площадь прямоугольного треугольника равна " + area.toFixed(2);
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Расчет площади прямоугольного треугольника</h2>
+
+  <label>Основание (a):</label>
+  <input type="number" id="base" step="any"><br>
+
+  <label>Высота (h):</label>
+  <input type="number" id="height" step="any"><br>
+
+  <button onclick="calculate()">Вычислить</button>
+
+  <div id="result"></div>
+
+</body>
+</html>

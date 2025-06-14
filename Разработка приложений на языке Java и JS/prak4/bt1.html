@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Графическое меню</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+    .menu {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 20px;
+    }
+    .menu img {
+      margin: 10px 0;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .menu img:hover {
+      transform: scale(1.05);
+    }
+  </style>
+  <script>
+    function swapImage(img, newSrc) {
+      img.dataset.original = img.src;
+      img.src = newSrc;
+    }
+
+    function restoreImage(img) {
+      if (img.dataset.original) {
+        img.src = img.dataset.original;
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="menu">
+    <img src="pch1.png" 
+         onmouseover="swapImage(this, 'wpch1.png')" 
+         onmouseout="restoreImage(this)" 
+         alt="Menu item 1" width="120">
+    
+    <img src="pch2.png" 
+         onmouseover="swapImage(this, 'wpch2.png')" 
+         onmouseout="restoreImage(this)" 
+         alt="Menu item 2" width="120">
+    
+    <img src="pch3.png" 
+         onmouseover="swapImage(this, 'wpch3.png')" 
+         onmouseout="restoreImage(this)" 
+         alt="Menu item 3" width="120">
+  </div>
+</body>
+</html>

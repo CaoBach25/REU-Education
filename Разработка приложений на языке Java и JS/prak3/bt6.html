@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Обмен изображений</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      padding: 20px;
+    }
+    .gallery img {
+      width: 150px;
+      margin: 10px;
+    }
+    input {
+      margin: 5px;
+      width: 40px;
+    }
+  </style>
+  <script>
+    function swapImages() {
+      const i1 = parseInt(document.getElementById("img1").value);
+      const i2 = parseInt(document.getElementById("img2").value);
+      const images = document.querySelectorAll(".gallery img");
+
+      const error = document.getElementById("error");
+      error.textContent = "";
+
+      if (
+        isNaN(i1) || isNaN(i2) ||
+        i1 < 1 || i1 > 3 ||
+        i2 < 1 || i2 > 3 ||
+        i1 === i2
+      ) {
+        error.textContent = "Введите два разных числа от 1 до 3!";
+        return;
+      }
+
+      // Swap ảnh
+      const tempSrc = images[i1 - 1].src;
+      images[i1 - 1].src = images[i2 - 1].src;
+      images[i2 - 1].src = tempSrc;
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Обмен изображений</h2>
+
+  <div class="gallery">
+    <img src="p1.jpg" alt="Ảnh 1">
+    <img src="p2.jpg" alt="Ảnh 2">
+    <img src="p3.jpg" alt="Ảnh 3">
+  </div>
+
+  <p>
+    Введите номера изображений для обмена:<br>
+    <input type="number" id="img1" min="1" max="3">
+    и
+    <input type="number" id="img2" min="1" max="3">
+    <button onclick="swapImages()">Обменять</button>
+  </p>
+
+  <p id="error" style="color: red; font-weight: bold;"></p>
+
+</body>
+</html>

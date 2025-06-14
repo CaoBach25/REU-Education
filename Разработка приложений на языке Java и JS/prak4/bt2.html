@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Расчет площади фигуры</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f2f2f2;
+    }
+    label, input, button {
+      display: block;
+      margin-top: 10px;
+    }
+    .result {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+    .error {
+      color: red;
+    }
+  </style>
+  <script>
+    function calculateArea() {
+      const value = parseFloat(document.getElementById("inputValue").value);
+      const square = document.getElementById("square").checked;
+      const circle = document.getElementById("circle").checked;
+      const triangle = document.getElementById("triangle").checked;
+      const resultField = document.getElementById("result");
+
+      if (isNaN(value)) {
+        resultField.innerHTML = "<span class='error'>Введите значение!</span>";
+        return;
+      }
+
+      let area = 0;
+      if (square) {
+        area = value * value;
+      } else if (circle) {
+        area = Math.PI * value * value;
+      } else if (triangle) {
+        area = (value * value * Math.sqrt(3)) / 4;
+      } else {
+        resultField.innerHTML = "<span class='error'>Выберите фигуру!</span>";
+        return;
+      }
+
+      resultField.textContent = "Площадь: " + area.toFixed(2);
+    }
+
+    function resetForm() {
+      document.getElementById("form").reset();
+      document.getElementById("result").textContent = "";
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Расчет площади</h2>
+
+  <form id="form">
+    <label>Введите значение (сторона квадрата, радиус круга или сторона треугольника):</label>
+    <input type="number" id="inputValue" step="any">
+
+    <label><input type="radio" name="shape" id="square"> Квадрат</label>
+    <label><input type="radio" name="shape" id="circle"> Круг</label>
+    <label><input type="radio" name="shape" id="triangle"> Равносторонний треугольник</label>
+
+    <button type="button" onclick="resetForm()">Отменить</button>
+    <button type="button" onclick="calculateArea()">Рассчитать</button>
+  </form>
+
+  <div id="result" class="result"></div>
+
+</body>
+</html>

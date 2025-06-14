@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Максимум с использованием Math.max</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f3f3;
+      padding: 20px;
+    }
+    label {
+      display: inline-block;
+      width: 100px;
+    }
+    input {
+      margin: 5px;
+    }
+  </style>
+  <script>
+    function findMaxWithMath() {
+      const a = Number(document.getElementById("a").value);
+      const b = Number(document.getElementById("b").value);
+      const c = Number(document.getElementById("c").value);
+      const output = document.getElementById("max");
+
+      if (isNaN(a) || isNaN(b) || isNaN(c)) {
+        output.value = "Ошибка";
+        return;
+      }
+
+      const max = Math.max(Math.max(a, b), c);
+      output.value = max;
+    }
+
+    function resetFields() {
+      document.getElementById("a").value = "";
+      document.getElementById("b").value = "";
+      document.getElementById("c").value = "";
+      document.getElementById("max").value = "";
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Максимальное значение (Math.max)</h2>
+
+  <label>Число a:</label>
+  <input type="number" id="a"><br>
+
+  <label>Число b:</label>
+  <input type="number" id="b"><br>
+
+  <label>Число c:</label>
+  <input type="number" id="c"><br>
+
+  <label>Максимум:</label>
+  <input type="text" id="max" readonly><br>
+
+  <button onclick="findMaxWithMath()">Определить</button>
+  <button onclick="resetFields()">Сбросить</button>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Анкета читателя</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    img {
+      width: 100px;
+      margin-bottom: 10px;
+    }
+    textarea {
+      width: 100%;
+      height: 100px;
+      margin-top: 10px;
+      resize: none;
+    }
+    label {
+      display: block;
+      margin-top: 8px;
+    }
+    button {
+      margin-top: 12px;
+      margin-right: 10px;
+    }
+  </style>
+  <script>
+    function updateDescription() {
+      const checks = document.querySelectorAll('input[type="checkbox"]:checked');
+      const textArea = document.getElementById("output");
+      if (checks.length === 0) {
+        textArea.value = "";
+        return;
+      }
+
+      let result = "Вас привлекает:\n";
+      checks.forEach(chk => {
+        result += "- " + chk.value + "\n";
+      });
+
+      textArea.value = result;
+    }
+
+    function resetForm() {
+      document.getElementById("form").reset();
+      document.getElementById("output").value = "";
+    }
+  </script>
+</head>
+<body>
+
+  <h2>Анкета читателя</h2>
+  <img src="book.png" alt="book image">
+
+  <form id="form">
+    <label>Название любимого издания:</label>
+    <input type="text" name="title">
+
+    <label><input type="checkbox" value="Стиль изложения" onchange="updateDescription()"> Стиль изложения</label>
+    <label><input type="checkbox" value="Достоверность" onchange="updateDescription()"> Достоверность</label>
+    <label><input type="checkbox" value="Оформление" onchange="updateDescription()"> Оформление</label>
+
+    <textarea id="output" readonly></textarea>
+
+    <br>
+    <button type="button" onclick="resetForm()">Отмена</button>
+  </form>
+
+</body>
+</html>
